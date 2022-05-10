@@ -3,11 +3,19 @@ import pandas as pd
 from IPython.display import display
 from sqlalchemy import create_engine
 
-db_connection_str = 'mysql://root:12345678@localhost/recommender' # connection string: "mysql://[connection_name]:[connection_pass]@[hostname]/[database_name]
+# conexão por sql
+'''db_connection_str = 'mysql://root:12345678@localhost/recommender' # connection string: "mysql://[connection_name]:[connection_pass]@[hostname]/[database_name]
 db_connection = create_engine(db_connection_str)
 
 ratings = pd.read_sql('SELECT * FROM userratings', con=db_connection)
 board_titles = pd.read_sql('SELECT * FROM boards', con=db_connection)
+'''
+# conexão dos CSVs
+column_names = ['user_id', 'item_id', 'rating']
+ratings = pd.read_csv('userratings.csv',sep=',',names=column_names)
+column_names = ['item_id', 'title', 'n_players']
+board_titles = pd.read_csv('boards.csv',sep=',', names=column_names)
+
 
 ratings = pd.merge(ratings, board_titles, on='item_id')
 ratings.groupby('title')['rating'].mean()
