@@ -75,4 +75,4 @@ def grouprecommender(jogos_e_notas):
 
 
 # jogos = {'Zombicide': 10.0, 'Dixit': 10.0, 'Gloomhaven': 8.0, 'Alhambra': 9.0, 'Bandido': 5.0} # string de jogos, "superpessoa"
-# print(grouprecommender(jogos, 200).head(10))
+# print(grouprecommender(jogos).head(10))

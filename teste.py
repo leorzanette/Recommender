@@ -41,7 +41,7 @@ print("User board matrix que consiste em ratings pivoteado usando user_id como l
 print(user_board_matrix.head(10))
 print("---------------------------")
 
-board_x = "Alquimistas"
+board_x = "Gloomhaven"
 min_num_reviews = 250
 
 board_x_user_ratings = user_board_matrix[board_x]
