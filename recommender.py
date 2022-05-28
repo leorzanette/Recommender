@@ -3,6 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 import warnings
 warnings.filterwarnings("ignore")
+import big_o
 
 # conexão por sql
 db_connection_str = 'mysql://root:12345678@localhost/recommender' # connection string: "mysql://[connection_name]:[connection_pass]@[hostname]/[database_name]
@@ -35,6 +36,7 @@ def recommender(board_x, min_num_reviews):
     board_x_user_ratings = user_board_matrix[board_x]
     # Cria uma serie de relações entre todos os boards e o board_x usando pandas
     similar_to_board_x = user_board_matrix.corrwith(board_x_user_ratings)
+    similar_to_board_x = user_board_matrix.pre
     # Converte para um dataframe
     corr_board_x = pd.DataFrame(similar_to_board_x, columns=['Correlation'])
     # Exclui os valores nulos
@@ -73,6 +75,23 @@ def grouprecommender(jogos_e_notas):
     # retorna as correlações normalizadas
     return group.apply(lambda x: x/media)
 
+def join(lista):
+    main_dict = lista.pop()
+    for item in lista:
+        for k, v in item.items():
+            if k in main_dict:
+                notinha = main_dict[k]
+                main_dict[k] = (notinha + v)/2
+            else:
+                main_dict[k] = v
+    return main_dict
 
-# jogos = {'Zombicide': 10.0, 'Dixit': 10.0, 'Gloomhaven': 8.0, 'Alhambra': 9.0, 'Bandido': 5.0} # string de jogos, "superpessoa"
-# print(grouprecommender(jogos).head(10))
+Sheila = {'Uno': 10, 'Banco Imobiliário': 7}
+Mateus = {'Terraforming Mars': 7, 'Gloomhaven': 8}
+Leonardo = {'Zombicide': 9, 'Dixit': 8}
+Silla = {'Arcadia Quest': 10, 'Terraforming Mars': 10}
+Jean = {'Gloomhaven': 2, 'Uno': 9}
+
+lista = [Sheila, Jean, Leonardo, Mateus, Silla]
+listao = join(lista)
+# print(grouprecommender(join(lista)).head(10))
