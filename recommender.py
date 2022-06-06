@@ -36,7 +36,6 @@ def recommender(board_x, min_num_reviews):
     board_x_user_ratings = user_board_matrix[board_x]
     # Cria uma serie de relações entre todos os boards e o board_x usando pandas
     similar_to_board_x = user_board_matrix.corrwith(board_x_user_ratings)
-    similar_to_board_x = user_board_matrix.pre
     # Converte para um dataframe
     corr_board_x = pd.DataFrame(similar_to_board_x, columns=['Correlation'])
     # Exclui os valores nulos
