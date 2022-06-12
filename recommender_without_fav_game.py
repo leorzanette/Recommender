@@ -1,8 +1,8 @@
 import pandas as pd
-
+import numpy as np
 column_names = ['user_id', 'item_id', 'rating']
 ratings = pd.read_csv('userratings.csv', sep=',', names=column_names)
-print(ratings['user_id'].nunique())
+# print(ratings['user_id'].nunique())
 # print('ratings')
 # print(ratings)
 column_names = ['item_id', 'title', 'n_players']
@@ -30,7 +30,8 @@ matrix_norm = matrix#.subtract(matrix.mean(axis=1), axis='rows')
 # print('matrix_norm')
 # print(matrix_norm)
 
-def prediction(id):
+def predictionWithout(id, jogo):
+    matrix_norm.at[id, jogo] = np.nan
     user_similarity = matrix_norm.T.corr()
     # print(user_similarity)
     user_similarity_threshold = 0.3
@@ -68,70 +69,27 @@ def prediction(id):
     return ranked_item_score
 
 
-def groupPrediction(ids: list):
+def groupPredictionWithout(ids: list, jogo):
     dfs = []
     for user in ids:
-        dfs.append(prediction(user))
+        dfs.append(predictionWithout(user, jogo))
     groupred = dfs.pop()
     for dataframe in dfs:
         groupred = pd.concat((groupred, dataframe))
-    groupred = groupred.groupby(groupred['board']).mean()
+    groupred = groupred.groupby(groupred['board'], as_index=False).mean()
     return groupred.sort_values(by='predicted_rating', ascending=False)
 
+def getIndex(ids, jogo):
+    pred_id = groupPredictionWithout(ids, jogo)
+    print(pred_id.head(10))
+    count = 0
+    for i in pred_id['board']:
+        count += 1
+        if i == jogo:
+            return count
 
-id = 107
+# print(prediction(20062, 'Gloomhaven'))
+ids = [20062, 32761, 58110, 60329]
+jogo = 'Gloomhaven'
 
-ids = [107, 83]
-notas = []
-
-for idzinho in ids:
-    notas_id = matrix.iloc[idzinho].dropna(inplace=False)
-    print(f'ID {idzinho}: ')
-    print(notas_id)
-'''
-# print(groupPrediction([1, 2, 12]).head())
-print(prediction(id).head())
-
-
-print(f'Notas dadas pelo user {id}.')
-notas_id = matrix.iloc[id].dropna(inplace=False)
-print(notas_id)
-
-media_notas_id = 0
-notas_id_count = 0
-for k, v in notas_id.items():
-    media_notas_id += v
-    notas_id_count += 1
-print(f'Média do user {id}: {media_notas_id/notas_id_count:.2f}')
-
-pred_id = prediction(id)
-falso_positivo = 0
-falso_negativo = 0
-verdadeiro_positivo = 0
-verdadeiro_negativo = 0
-divisor = 7
-for k, v in notas_id.items():
-    print(f'{k}: {v}')
-    try:
-        correlacao = float(pred_id.loc[pred_id['board'] == k]['board_score'])
-        nota_predita = float(pred_id.loc[pred_id['board'] == k]['predicted_rating'])
-        print(f'Nota predita: {nota_predita:.2f}.'
-              f'Correlação: {correlacao:.5f}')
-        if nota_predita > divisor and v > divisor:
-            verdadeiro_positivo += 1
-        elif nota_predita > divisor and v < divisor:
-            falso_positivo += 1
-        elif nota_predita < divisor and v < divisor:
-            verdadeiro_negativo += 1
-        elif nota_predita < divisor and v > divisor:
-            falso_negativo += 1
-    except TypeError:
-        print('seila bicho')
-
-print(f'Verdadeiros positivos: {verdadeiro_positivo}')
-print(f'Falsos positivos: {falso_positivo}')
-print(f'Verdadeiros negativos: {verdadeiro_negativo}')
-print(f'Falsos negativos: {falso_negativo}')
-precision = verdadeiro_positivo/(verdadeiro_positivo+falso_positivo)
-print(f'Precision: {precision}')
-'''
+print(getIndex(ids, jogo))
