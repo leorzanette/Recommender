@@ -1,0 +1,494 @@
+top 6 gloomhaven
+                        board  board_score  predicted_rating
+141                  For Sale        0.250          8.434211
+75          Clãs da Caledônia        0.250          8.434211
+155                Gloomhaven        0.125          8.309211
+142          Forbidden Desert        0.000          8.184211
+365  Ticket to Ride: New York        0.000          8.184211
+130                    Ethnos        0.000          8.184211
+360   Three Cheers for Master        0.000          8.184211
+136             Fireteam Zero        0.000          8.184211
+138              Flamme Rouge        0.000          8.184211
+140             Flick 'em Up!        0.000          8.184211
+Score for comb: [20062, 20224, 23004, 32761] is 3.
+Score for comb after normalization: [20062, 20224, 23004, 32761] is 2.
+Score for comb with log: [20062, 20224, 23004, 32761] is 2.0.
+                             board  board_score  predicted_rating
+291                         Scythe     0.555556          8.784423
+64   Century: Rota das Especiarias     0.250000          8.568182
+148            Great Western Trail     0.150000          8.468182
+132                       For Sale     0.250000          8.434211
+74               Clãs da Caledônia     0.250000          8.434211
+201           Lorenzo il Magnifico     0.000000          8.318182
+197                           Loot     0.000000          8.318182
+55            Campeões de Midgard      0.000000          8.318182
+53                         Cafundó     0.000000          8.318182
+199                Lords of Hellas     0.000000          8.318182
+Score for comb: [20062, 20224, 23004, 45404] is 50.
+Score for comb after normalization: [20062, 20224, 23004, 45404] is 0.
+Score for comb with log: [20062, 20224, 23004, 45404] is 0.0.
+                             board  board_score  predicted_rating
+291                         Scythe     0.555556          8.784423
+64   Century: Rota das Especiarias     0.250000          8.568182
+148            Great Western Trail     0.150000          8.468182
+132                       For Sale     0.250000          8.434211
+74               Clãs da Caledônia     0.250000          8.434211
+369                        Village     0.125000          8.376196
+125                       Everdell     0.000000          8.318182
+82                       Cry Havoc     0.000000          8.318182
+272                     Rising Sun     0.000000          8.318182
+370          Vinhos Deluxe Edition     0.000000          8.318182
+Score for comb: [20062, 20224, 23004, 52819] is 51.
+Score for comb after normalization: [20062, 20224, 23004, 52819] is -1.
+Score for comb with log: [20062, 20224, 23004, 52819] is -0.5.
+                 board  board_score  predicted_rating
+75   Clãs da Caledônia        0.250          8.434211
+154         Gloomhaven        0.125          8.309211
+371            Tokaido        0.000          8.184211
+372            Tsukiji        0.000          8.184211
+135      Fireteam Zero        0.000          8.184211
+137       Flamme Rouge        0.000          8.184211
+283           Reykholt        0.000          8.184211
+143       Fotossíntese        0.000          8.184211
+144      Francis Drake        0.000          8.184211
+141   Forbidden Desert        0.000          8.184211
+Score for comb: [20062, 20224, 23004, 58110] is 2.
+Score for comb after normalization: [20062, 20224, 23004, 58110] is 2.
+Score for comb with log: [20062, 20224, 23004, 58110] is 0.8613531161467861.
+                                           board  board_score  predicted_rating
+148                                     For Sale         0.25          8.434211
+63                          Campeões de Midgard          0.00          8.318182
+409                        Vinhos Deluxe Edition         0.00          8.318182
+75                           Chronicles of Crime         0.00          8.318182
+25                   As Ruínas Perdidas de Arnak         0.00          8.318182
+345                         Star Wars: Rebellion         0.00          8.318182
+331  Sid Meier's Civilization: Um Novo Amanhecer         0.00          8.318182
+66                                 Capitão Sonar         0.00          8.318182
+342                           Star Wars: Destiny         0.00          8.318182
+215                   Lewis & Clark: A Expedição         0.00          8.318182
+Score for comb: [20062, 20224, 32761, 45404] is 45.
+Score for comb after normalization: [20062, 20224, 32761, 45404] is 0.
+Score for comb with log: [20062, 20224, 32761, 45404] is 0.0.
+                                           board  board_score  predicted_rating
+148                                     For Sale        0.250          8.434211
+408                                      Village        0.125          8.376196
+63                          Campeões de Midgard         0.000          8.318182
+409                        Vinhos Deluxe Edition        0.000          8.318182
+25                   As Ruínas Perdidas de Arnak        0.000          8.318182
+345                         Star Wars: Rebellion        0.000          8.318182
+331  Sid Meier's Civilization: Um Novo Amanhecer        0.000          8.318182
+66                                 Capitão Sonar        0.000          8.318182
+215                   Lewis & Clark: A Expedição        0.000          8.318182
+342                           Star Wars: Destiny        0.000          8.318182
+Score for comb: [20062, 20224, 32761, 52819] is 46.
+Score for comb after normalization: [20062, 20224, 32761, 52819] is 0.
+Score for comb with log: [20062, 20224, 32761, 52819] is 0.0.
+                                                 board  ...  predicted_rating
+171                                        Hive Pocket  ...          8.184211
+68                                            Celestia  ...          8.184211
+123  Dungeons & Dragons: Wrath of Ashardalon Board ...  ...          8.184211
+343                                              Telma  ...          8.184211
+125                                            Eclipse  ...          8.184211
+62                                         Capital Lux  ...          8.184211
+210                              Looterz: Rigor Mortis  ...          8.184211
+396                           War Batalhas Mitológicas  ...          8.184211
+342                                           Tapestry  ...          8.184211
+380                  Twilight Imperium (Third Edition)  ...          8.184211
+
+[10 rows x 3 columns]
+Score for comb: [20062, 20224, 32761, 58110] is 46.
+Score for comb after normalization: [20062, 20224, 32761, 58110] is 0.
+Score for comb with log: [20062, 20224, 32761, 58110] is 0.0.
+                                           board  board_score  predicted_rating
+154  Imperial Settlers: A Ascensão de um Império     0.316667          8.590191
+61                 Century: Rota das Especiarias     0.250000          8.568182
+275                                       Scythe     0.277778          8.551302
+139                          Great Western Trail     0.150000          8.468182
+189                           Lords of Waterdeep     0.166667          8.440191
+124                                     For Sale     0.250000          8.434211
+180                                        LHAMA     0.083333          8.356858
+41                             Brass: Lancashire     0.000000          8.318182
+50                                       Cafundó     0.000000          8.318182
+64                           Chronicles of Crime     0.000000          8.318182
+Score for comb: [20062, 20224, 45404, 52819] is 63.
+Score for comb after normalization: [20062, 20224, 45404, 52819] is -1.
+Score for comb with log: [20062, 20224, 45404, 52819] is -0.31546487678572877.
+                                           board  board_score  predicted_rating
+218                           Lords of Waterdeep         0.25          8.501196
+211                   Lewis & Clark: A Expedição         0.00          8.318182
+232            Marco Polo II: Ao Serviço do Khan         0.00          8.318182
+360                        The Manhattan Project         0.00          8.318182
+46                                     Bora Bora         0.00          8.318182
+48                             Brass: Lancashire         0.00          8.318182
+49                                     BraveRats         0.00          8.318182
+322  Sid Meier's Civilization: Um Novo Amanhecer         0.00          8.318182
+58                                       Cafundó         0.00          8.318182
+60                          Campeões de Midgard          0.00          8.318182
+Score for comb: [20062, 20224, 45404, 58110] is 36.
+Score for comb after normalization: [20062, 20224, 45404, 58110] is 0.
+Score for comb with log: [20062, 20224, 45404, 58110] is 0.0.
+                                           board  board_score  predicted_rating
+218                           Lords of Waterdeep         0.25          8.501196
+211                   Lewis & Clark: A Expedição         0.00          8.318182
+232            Marco Polo II: Ao Serviço do Khan         0.00          8.318182
+360                        The Manhattan Project         0.00          8.318182
+46                                     Bora Bora         0.00          8.318182
+48                             Brass: Lancashire         0.00          8.318182
+49                                     BraveRats         0.00          8.318182
+322  Sid Meier's Civilization: Um Novo Amanhecer         0.00          8.318182
+58                                       Cafundó         0.00          8.318182
+60                          Campeões de Midgard          0.00          8.318182
+Score for comb: [20062, 20224, 52819, 58110] is 39.
+Score for comb after normalization: [20062, 20224, 52819, 58110] is 0.
+Score for comb with log: [20062, 20224, 52819, 58110] is 0.0.
+                     board  board_score  predicted_rating
+85       Clãs da Caledônia        0.500          8.684211
+155               For Sale        0.250          8.434211
+170             Gloomhaven        0.125          8.376196
+152           Flamme Rouge        0.000          8.318182
+407                 Trajan        0.000          8.318182
+424  Vinhos Deluxe Edition        0.000          8.318182
+247              Maracaibo        0.000          8.318182
+177           High Society        0.000          8.318182
+418     Um Banquete a Odin        0.000          8.318182
+48               Bora Bora        0.000          8.318182
+Score for comb: [20062, 23004, 32761, 45404] is 3.
+Score for comb after normalization: [20062, 23004, 32761, 45404] is 2.
+Score for comb with log: [20062, 23004, 32761, 45404] is 0.5578858913022597.
+                                           board  board_score  predicted_rating
+85                             Clãs da Caledônia        0.500          8.684211
+423                                      Village        0.250          8.568182
+155                                     For Sale        0.250          8.434211
+170                                   Gloomhaven        0.125          8.376196
+152                                 Flamme Rouge        0.000          8.318182
+407                                       Trajan        0.000          8.318182
+424                        Vinhos Deluxe Edition        0.000          8.318182
+247                                    Maracaibo        0.000          8.318182
+418                           Um Banquete a Odin        0.000          8.318182
+345  Sid Meier's Civilization: Um Novo Amanhecer        0.000          8.318182
+Score for comb: [20062, 23004, 32761, 52819] is 4.
+Score for comb after normalization: [20062, 23004, 32761, 52819] is 2.
+Score for comb with log: [20062, 23004, 32761, 52819] is 0.5404763088546395.
+                                      board  board_score  predicted_rating
+81                        Clãs da Caledônia         0.50          8.684211
+163                              Gloomhaven         0.25          8.434211
+388                                 Tsukiji         0.00          8.184211
+112                  Dobble: À Prova D'Água         0.00          8.184211
+103                                Decrypto         0.00          8.184211
+102          Deception: Murder in Hong Kong         0.00          8.184211
+214  Legendary: A Marvel Deck Building Game         0.00          8.184211
+219                   Looterz: Rigor Mortis         0.00          8.184211
+381                        Timeline: Brasil         0.00          8.184211
+383                     Timeline: Invenções         0.00          8.184211
+Score for comb: [20062, 23004, 32761, 58110] is 2.
+Score for comb after normalization: [20062, 23004, 32761, 58110] is 2.
+Score for comb with log: [20062, 23004, 32761, 58110] is 0.5252990700743871.
+                                           board  board_score  predicted_rating
+74                             Clãs da Caledônia     0.500000          8.684211
+64                 Century: Rota das Especiarias     0.250000          8.568182
+289                                       Scythe     0.277778          8.551302
+148                          Great Western Trail     0.150000          8.468182
+132                                     For Sale     0.250000          8.434211
+164  Imperial Settlers: A Ascensão de um Império     0.108333          8.381858
+146                                   Gloomhaven     0.083333          8.356858
+190                                        LHAMA     0.083333          8.356858
+55                          Campeões de Midgard      0.000000          8.318182
+166                                     Interpol     0.000000          8.318182
+Score for comb: [20062, 23004, 45404, 52819] is 7.
+Score for comb after normalization: [20062, 23004, 45404, 52819] is 2.
+Score for comb with log: [20062, 23004, 45404, 52819] is 0.511916049619631.
+                                           board  board_score  predicted_rating
+83                             Clãs da Caledônia        0.500          8.684211
+166                                   Gloomhaven        0.125          8.376196
+66                                 Capitão Sonar        0.000          8.318182
+76                           Chronicles of Crime        0.000          8.318182
+156                                       Fresco        0.000          8.318182
+274              O Senhor dos Anéis: O Confronto        0.000          8.318182
+275                          O Vale dos Monstros        0.000          8.318182
+61                                       Cafundó        0.000          8.318182
+277                                      Onitama        0.000          8.318182
+336  Sid Meier's Civilization: Um Novo Amanhecer        0.000          8.318182
+Score for comb: [20062, 23004, 45404, 58110] is 2.
+Score for comb after normalization: [20062, 23004, 45404, 58110] is 2.
+Score for comb with log: [20062, 23004, 45404, 58110] is 0.5.
+                                           board  board_score  predicted_rating
+83                             Clãs da Caledônia        0.500          8.684211
+166                                   Gloomhaven        0.125          8.376196
+66                                 Capitão Sonar        0.000          8.318182
+76                           Chronicles of Crime        0.000          8.318182
+156                                       Fresco        0.000          8.318182
+274              O Senhor dos Anéis: O Confronto        0.000          8.318182
+275                          O Vale dos Monstros        0.000          8.318182
+61                                       Cafundó        0.000          8.318182
+277                                      Onitama        0.000          8.318182
+336  Sid Meier's Civilization: Um Novo Amanhecer        0.000          8.318182
+Score for comb: [20062, 23004, 52819, 58110] is 2.
+Score for comb after normalization: [20062, 23004, 52819, 58110] is 2.
+Score for comb with log: [20062, 23004, 52819, 58110] is 0.4893010842364521.
+                     board  board_score  predicted_rating
+171                  LHAMA     0.125000          8.443182
+300               Tapestry     0.022222          8.340404
+136           High Society     0.000000          8.318182
+107  Endeavor: Age of Sail     0.000000          8.318182
+130             Gloomhaven     0.000000          8.318182
+325  Tiranos da Umbreterna     0.000000          8.318182
+121                 Fresco     0.000000          8.318182
+326                 Trajan     0.000000          8.318182
+118           Flamme Rouge     0.000000          8.318182
+112               Everdell     0.000000          8.318182
+Score for comb: [20062, 32761, 45404, 52819] is 5.
+Score for comb after normalization: [20062, 32761, 45404, 52819] is 2.
+Score for comb with log: [20062, 32761, 45404, 52819] is 0.4796249331362629.
+                               board  board_score  predicted_rating
+187                            LHAMA     0.125000          8.443182
+320                         Tapestry     0.022222          8.340404
+282                 Salada de Pontos     0.000000          8.318182
+163                         Interpol     0.000000          8.318182
+327            The Manhattan Project     0.000000          8.318182
+240  O Senhor dos Anéis: O Confronto     0.000000          8.318182
+81                         Cry Havoc     0.000000          8.318182
+192       Lewis & Clark: A Expedição     0.000000          8.318182
+230                        Mysterium     0.000000          8.318182
+41                         Bora Bora     0.000000          8.318182
+Score for comb: [20062, 32761, 45404, 58110] is 36.
+Score for comb after normalization: [20062, 32761, 45404, 58110] is 0.
+Score for comb with log: [20062, 32761, 45404, 58110] is 0.0.
+                                           board  board_score  predicted_rating
+187                                        LHAMA     0.125000          8.443182
+320                                     Tapestry     0.022222          8.340404
+44                                     BraveRats     0.000000          8.318182
+192                   Lewis & Clark: A Expedição     0.000000          8.318182
+295  Sid Meier's Civilization: Um Novo Amanhecer     0.000000          8.318182
+66                           Chronicles of Crime     0.000000          8.318182
+363                        Vinhos Deluxe Edition     0.000000          8.318182
+59                                 Capitão Sonar     0.000000          8.318182
+241                          O Vale dos Monstros     0.000000          8.318182
+240              O Senhor dos Anéis: O Confronto     0.000000          8.318182
+Score for comb: [20062, 32761, 52819, 58110] is 25.
+Score for comb after normalization: [20062, 32761, 52819, 58110] is 0.
+Score for comb with log: [20062, 32761, 52819, 58110] is 0.0.
+                     board  board_score  predicted_rating
+171                  LHAMA     0.125000          8.443182
+295               Tapestry     0.022222          8.340404
+120                 Fresco     0.000000          8.318182
+313     Tigris & Euphrates     0.000000          8.318182
+72               Cry Havoc     0.000000          8.318182
+143   Ilha dos Dinossauros     0.000000          8.318182
+144                Imhotep     0.000000          8.318182
+321                 Trajan     0.000000          8.318182
+320  Tiranos da Umbreterna     0.000000          8.318182
+59     Chronicles of Crime     0.000000          8.318182
+Score for comb: [20062, 45404, 52819, 58110] is 32.
+Score for comb after normalization: [20062, 45404, 52819, 58110] is 0.
+Score for comb with log: [20062, 45404, 52819, 58110] is 0.0.
+                                    board  board_score  predicted_rating
+297     Star Wars: X-Wing Miniatures Game     0.241667          8.470534
+15                            Alquimistas     0.200000          8.451196
+133                              For Sale     0.250000          8.434211
+72                      Clãs da Caledônia     0.250000          8.434211
+71   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+364                             Zombicide     0.125000          8.353868
+118                            Elder Sign     0.108333          8.337201
+46                              BraveRats     0.000000          8.318182
+45                      Brass: Lancashire     0.000000          8.318182
+80                         Corrida Maluca     0.000000          8.318182
+Score for comb: [20224, 23004, 32761, 45404] is 62.
+Score for comb after normalization: [20224, 23004, 32761, 45404] is -1.
+Score for comb with log: [20224, 23004, 32761, 45404] is -0.22424382421757544.
+                                    board  board_score  predicted_rating
+297     Star Wars: X-Wing Miniatures Game     0.241667          8.470534
+15                            Alquimistas     0.200000          8.451196
+133                              For Sale     0.250000          8.434211
+72                      Clãs da Caledônia     0.250000          8.434211
+71   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+350                               Village     0.125000          8.376196
+364                             Zombicide     0.125000          8.353868
+118                            Elder Sign     0.108333          8.337201
+300                        Stuffed Fables     0.000000          8.318182
+45                      Brass: Lancashire     0.000000          8.318182
+Score for comb: [20224, 23004, 32761, 52819] is 63.
+Score for comb after normalization: [20224, 23004, 32761, 52819] is -1.
+Score for comb with log: [20224, 23004, 32761, 52819] is -0.22106472945750374.
+                                      board  board_score  predicted_rating
+66                        Clãs da Caledônia       0.2500          8.434211
+341                               Zombicide       0.1875          8.371711
+227                        Potion Explosion       0.1250          8.309211
+131                              Gloomhaven       0.1250          8.309211
+0                          1920 Wall Street       0.0000          8.184211
+195                        Mice and Mystics       0.0000          8.184211
+167                                   LHAMA       0.0000          8.184211
+170  Legendary: A Marvel Deck Building Game       0.0000          8.184211
+174                   Looterz: Rigor Mortis       0.0000          8.184211
+186                     Mansions of Madness       0.0000          8.184211
+Score for comb: [20224, 23004, 32761, 58110] is 4.
+Score for comb after normalization: [20224, 23004, 32761, 58110] is 2.
+Score for comb with log: [20224, 23004, 32761, 58110] is 0.4362085839710631.
+                                 board  board_score  predicted_rating
+12                            Agricola     0.425000          8.743182
+213                             Scythe     0.416667          8.667863
+231  Star Wars: X-Wing Miniatures Game     0.362500          8.613696
+49       Century: Rota das Especiarias     0.250000          8.568182
+46                         Cartógrafos     0.250000          8.568182
+284                           Wingspan     0.293750          8.544946
+14                         Alquimistas     0.266667          8.540191
+139               Krosmaster Arena 2.0     0.200000          8.518182
+244                      Terra Mystica     0.242188          8.493384
+112                Great Western Trail     0.150000          8.468182
+Score for comb: [20224, 23004, 45404, 52819] is 94.
+Score for comb after normalization: [20224, 23004, 45404, 52819] is -1.
+Score for comb with log: [20224, 23004, 45404, 52819] is -0.21533827903669653.
+                                           board  board_score  predicted_rating
+177                         Krosmaster Arena 2.0     0.200000          8.518182
+291            Star Wars: X-Wing Miniatures Game     0.241667          8.470534
+69                             Clãs da Caledônia     0.250000          8.434211
+68          Clank!: Um Deck Building de Aventura     0.075000          8.393182
+223                O Senhor dos Anéis: Card Game     0.187500          8.371711
+359                                    Zombicide     0.125000          8.353868
+41                                     Bora Bora     0.000000          8.318182
+281               Sons of Anarchy: Men of Mayhem     0.000000          8.318182
+279  Sid Meier's Civilization: Um Novo Amanhecer     0.000000          8.318182
+44                             Brass: Lancashire     0.000000          8.318182
+Score for comb: [20224, 23004, 45404, 58110] is 56.
+Score for comb after normalization: [20224, 23004, 45404, 58110] is -1.
+Score for comb with log: [20224, 23004, 45404, 58110] is -0.21274605355336312.
+                                           board  board_score  predicted_rating
+177                         Krosmaster Arena 2.0     0.200000          8.518182
+291            Star Wars: X-Wing Miniatures Game     0.241667          8.470534
+69                             Clãs da Caledônia     0.250000          8.434211
+68          Clank!: Um Deck Building de Aventura     0.075000          8.393182
+223                O Senhor dos Anéis: Card Game     0.187500          8.371711
+359                                    Zombicide     0.125000          8.353868
+41                                     Bora Bora     0.000000          8.318182
+281               Sons of Anarchy: Men of Mayhem     0.000000          8.318182
+279  Sid Meier's Civilization: Um Novo Amanhecer     0.000000          8.318182
+44                             Brass: Lancashire     0.000000          8.318182
+Score for comb: [20224, 23004, 52819, 58110] is 56.
+Score for comb after normalization: [20224, 23004, 52819, 58110] is -1.
+Score for comb with log: [20224, 23004, 52819, 58110] is -0.2103099178571525.
+                                    board  board_score  predicted_rating
+277     Star Wars: X-Wing Miniatures Game     0.483333          8.756858
+12                            Alquimistas     0.266667          8.540191
+329                Valeria: Card Kingdoms     0.216667          8.490191
+124                              For Sale     0.250000          8.434211
+344                             Zombicide     0.125000          8.398525
+65   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+109                            Elder Sign     0.108333          8.381858
+172                                 LHAMA     0.083333          8.356858
+317                                Trajan     0.000000          8.318182
+108                     El Grande Big Box     0.000000          8.318182
+Score for comb: [20224, 32761, 45404, 52819] is 70.
+Score for comb after normalization: [20224, 32761, 45404, 52819] is -1.
+Score for comb with log: [20224, 32761, 45404, 52819] is -0.20801459767650948.
+                                    board  board_score  predicted_rating
+295     Star Wars: X-Wing Miniatures Game       0.3625          8.613696
+368                             Zombicide       0.1875          8.438696
+350                Valeria: Card Kingdoms       0.1625          8.413696
+69   Clank!: Um Deck Building de Aventura       0.0750          8.393182
+303                                Só Uma       0.0000          8.318182
+40                              Bora Bora       0.0000          8.318182
+138                                Ganges       0.0000          8.318182
+352                 Vinhos Deluxe Edition       0.0000          8.318182
+291                    Star Wars: Destiny       0.0000          8.318182
+144                                Gùgōng       0.0000          8.318182
+Score for comb: [20224, 32761, 45404, 58110] is 56.
+Score for comb after normalization: [20224, 32761, 45404, 58110] is -1.
+Score for comb with log: [20224, 32761, 45404, 58110] is -0.20584683246043448.
+                                    board  board_score  predicted_rating
+295     Star Wars: X-Wing Miniatures Game       0.3625          8.613696
+368                             Zombicide       0.1875          8.438696
+350                Valeria: Card Kingdoms       0.1625          8.413696
+69   Clank!: Um Deck Building de Aventura       0.0750          8.393182
+303                                Só Uma       0.0000          8.318182
+40                              Bora Bora       0.0000          8.318182
+138                                Ganges       0.0000          8.318182
+352                 Vinhos Deluxe Edition       0.0000          8.318182
+291                    Star Wars: Destiny       0.0000          8.318182
+144                                Gùgōng       0.0000          8.318182
+Score for comb: [20224, 32761, 52819, 58110] is 56.
+Score for comb after normalization: [20224, 32761, 52819, 58110] is -1.
+Score for comb with log: [20224, 32761, 52819, 58110] is -0.2037950470905062.
+                                    board  board_score  predicted_rating
+271     Star Wars: X-Wing Miniatures Game     0.483333          8.756858
+166                  Krosmaster Arena 2.0     0.200000          8.518182
+323                Valeria: Card Kingdoms     0.216667          8.490191
+176                    Lords of Waterdeep     0.166667          8.440191
+339                             Zombicide     0.125000          8.398525
+62   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+167                                 LHAMA     0.083333          8.356858
+274                        Stuffed Fables     0.000000          8.318182
+250                           Santa Maria     0.000000          8.318182
+50                          Capitão Sonar     0.000000          8.318182
+Score for comb: [20224, 45404, 52819, 58110] is 69.
+Score for comb after normalization: [20224, 45404, 52819, 58110] is -1.
+Score for comb with log: [20224, 45404, 52819, 58110] is -0.20184908658209985.
+                                    board  board_score  predicted_rating
+296     Star Wars: X-Wing Miniatures Game     0.483333          8.756858
+15                            Alquimistas     0.400000          8.718182
+72                      Clãs da Caledônia     0.500000          8.684211
+204       Mansions of Madness (2ª Edição)     0.235185          8.508710
+133                              For Sale     0.250000          8.434211
+71   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+145                            Gloomhaven     0.083333          8.356858
+183                                 LHAMA     0.083333          8.356858
+348                Valeria: Card Kingdoms     0.050000          8.323525
+147                                Gùgōng     0.000000          8.318182
+Score for comb: [23004, 32761, 45404, 52819] is 7.
+Score for comb after normalization: [23004, 32761, 45404, 52819] is 2.
+Score for comb with log: [23004, 32761, 45404, 52819] is 0.4.
+                                    board  board_score  predicted_rating
+76                      Clãs da Caledônia     0.500000          8.684211
+312     Star Wars: X-Wing Miniatures Game     0.362500          8.613696
+214       Mansions of Madness (2ª Edição)     0.190278          8.441474
+75   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+151                            Gloomhaven     0.125000          8.376196
+125                 Endeavor: Age of Sail     0.000000          8.318182
+369                 Vinhos Deluxe Edition     0.000000          8.318182
+315                        Stuffed Fables     0.000000          8.318182
+182                                Kariba     0.000000          8.318182
+131                            Fairy Tile     0.000000          8.318182
+Score for comb: [23004, 32761, 45404, 58110] is 5.
+Score for comb after normalization: [23004, 32761, 45404, 58110] is 2.
+Score for comb with log: [23004, 32761, 45404, 58110] is 0.39647972634112105.
+                                    board  board_score  predicted_rating
+76                      Clãs da Caledônia     0.500000          8.684211
+312     Star Wars: X-Wing Miniatures Game     0.362500          8.613696
+214       Mansions of Madness (2ª Edição)     0.190278          8.441474
+75   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+151                            Gloomhaven     0.125000          8.376196
+125                 Endeavor: Age of Sail     0.000000          8.318182
+369                 Vinhos Deluxe Edition     0.000000          8.318182
+315                        Stuffed Fables     0.000000          8.318182
+182                                Kariba     0.000000          8.318182
+131                            Fairy Tile     0.000000          8.318182
+Score for comb: [23004, 32761, 52819, 58110] is 5.
+Score for comb after normalization: [23004, 32761, 52819, 58110] is 2.
+Score for comb with log: [23004, 32761, 52819, 58110] is 0.3931232644656452.
+                                    board  board_score  predicted_rating
+290     Star Wars: X-Wing Miniatures Game     0.483333          8.756858
+69                      Clãs da Caledônia     0.500000          8.684211
+177                  Krosmaster Arena 2.0     0.200000          8.518182
+198       Mansions of Madness (2ª Edição)     0.235185          8.508710
+222         O Senhor dos Anéis: Card Game     0.250000          8.434211
+68   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+139                            Gloomhaven     0.083333          8.356858
+178                                 LHAMA     0.083333          8.356858
+342                Valeria: Card Kingdoms     0.050000          8.323525
+102                          Draftosaurus     0.000000          8.318182
+Score for comb: [23004, 45404, 52819, 58110] is 7.
+Score for comb after normalization: [23004, 45404, 52819, 58110] is 2.
+Score for comb with log: [23004, 45404, 52819, 58110] is 0.3899180437875726.
+                                    board  board_score  predicted_rating
+239     Star Wars: X-Wing Miniatures Game     0.725000          9.043182
+283                Valeria: Card Kingdoms     0.325000          8.643182
+164       Mansions of Madness (2ª Edição)     0.325000          8.643182
+148                                 LHAMA     0.125000          8.443182
+56   Clank!: Um Deck Building de Aventura     0.075000          8.393182
+250                              Tapestry     0.022222          8.340404
+165                             Maracaibo     0.000000          8.318182
+167                             Mascarade     0.000000          8.318182
+228                    Shadows: Amsterdam     0.000000          8.318182
+127                               Imhotep     0.000000          8.318182
+Score for comb: [32761, 45404, 52819, 58110] is 28.
+Score for comb after normalization: [32761, 45404, 52819, 58110] is 0.
+Score for comb with log: [32761, 45404, 52819, 58110] is 0.0.
+

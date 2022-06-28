@@ -1,0 +1,495 @@
+top 7 zombicide
+                            board  board_score  predicted_rating
+281  Welcome To: Seu Lar Perfeito        0.250          9.083333
+139                   Love Letter        0.250          9.083333
+267             Twilight Struggle        0.250          9.083333
+124                         Kemet        0.100          8.933333
+42         Chaos in the Old World        0.075          8.908333
+115                 Imperial 2030        0.000          8.833333
+88                         Feudum        0.000          8.833333
+102               Hansa Teutonica        0.000          8.833333
+100                        Gùgōng        0.000          8.833333
+98   Grasse - Mestres Perfumistas        0.000          8.833333
+Score for comb: [1137, 50450, 57865, 78389] is 169.
+Score for comb after normalization: [1137, 50450, 57865, 78389] is -1.
+Score for comb with log: [1137, 50450, 57865, 78389] is -1.0.
+                     board  board_score  predicted_rating
+248  Vinhos Deluxe Edition     0.425000          9.059146
+24     Bang! The Dice Game     0.377778          9.011924
+131   Magic: The Gathering     0.250000          8.884146
+209               Tapestry     0.175000          8.809146
+125     Lords of Waterdeep     0.022222          8.656369
+164            Pocket Mars     0.000000          8.634146
+147             No Thanks!     0.000000          8.634146
+165             Port Royal     0.000000          8.634146
+54               Concordia     0.000000          8.634146
+141              Mottainai     0.000000          8.634146
+Score for comb: [1137, 50450, 57865, 74437] is 206.
+Score for comb after normalization: [1137, 50450, 57865, 74437] is -1.
+Score for comb with log: [1137, 50450, 57865, 74437] is -0.6309297535714575.
+                       board  board_score  predicted_rating
+94                    Hanabi     0.333333          8.487589
+155                 Pandemic     0.300000          8.454255
+157                Patchwork     0.066667          8.220922
+101                  Imhotep     0.027778          8.182033
+62                    Dobble     0.025000          8.179255
+220           Ticket to Ride     0.250000          8.175469
+253                 Yokohama     0.455556          8.169841
+255  Zombicide: Black Plague     0.250000          8.166667
+63    Dobble: À Prova D'Água     0.000000          8.154255
+197              Star Realms     0.000000          8.154255
+Score for comb: [1137, 50450, 57865, 19827] is 98.
+Score for comb after normalization: [1137, 50450, 57865, 19827] is -1.
+Score for comb with log: [1137, 50450, 57865, 19827] is -0.5.
+                       board  board_score  predicted_rating
+94                    Hanabi     0.333333          8.487589
+155                 Pandemic     0.300000          8.454255
+157                Patchwork     0.066667          8.220922
+101                  Imhotep     0.027778          8.182033
+62                    Dobble     0.025000          8.179255
+220           Ticket to Ride     0.250000          8.175469
+253                 Yokohama     0.455556          8.169841
+255  Zombicide: Black Plague     0.250000          8.166667
+63    Dobble: À Prova D'Água     0.000000          8.154255
+197              Star Realms     0.000000          8.154255
+Score for comb: [1137, 50450, 57865, 22607] is 98.
+Score for comb after normalization: [1137, 50450, 57865, 22607] is -1.
+Score for comb with log: [1137, 50450, 57865, 22607] is -0.43067655807339306.
+                                 board  board_score  predicted_rating
+169                        Love Letter     0.250000          9.083333
+331       Welcome To: Seu Lar Perfeito     0.250000          9.083333
+321              Vinhos Deluxe Edition     0.425000          9.059146
+30                 Bang! The Dice Game     0.377778          9.011924
+150                              Kemet     0.100000          8.933333
+55              Chaos in the Old World     0.075000          8.908333
+175               Magic: The Gathering     0.250000          8.884146
+111                           Futboard     0.000000          8.833333
+106                 Food Chain Magnate     0.000000          8.833333
+312  Twilight Imperium (Quarta Edição)     0.000000          8.833333
+Score for comb: [1137, 50450, 78389, 74437] is 234.
+Score for comb after normalization: [1137, 50450, 78389, 74437] is -1.
+Score for comb with log: [1137, 50450, 78389, 74437] is -0.38685280723454163.
+                           board  board_score  predicted_rating
+170                  Love Letter        0.250          9.083333
+151                        Kemet        0.100          8.933333
+55        Chaos in the Old World        0.075          8.908333
+232                    Quem Foi?        0.000          8.833333
+108              Fields of Green        0.000          8.833333
+130  Histórias Sinistras: Cinema        0.000          8.833333
+129        Histórias Sinistras 3        0.000          8.833333
+128          Histórias Sinistras        0.000          8.833333
+126              Hansa Teutonica        0.000          8.833333
+123                       Gùgōng        0.000          8.833333
+Score for comb: [1137, 50450, 78389, 19827] is 148.
+Score for comb after normalization: [1137, 50450, 78389, 19827] is -1.
+Score for comb with log: [1137, 50450, 78389, 19827] is -0.3562071871080222.
+                           board  board_score  predicted_rating
+170                  Love Letter        0.250          9.083333
+151                        Kemet        0.100          8.933333
+55        Chaos in the Old World        0.075          8.908333
+232                    Quem Foi?        0.000          8.833333
+108              Fields of Green        0.000          8.833333
+130  Histórias Sinistras: Cinema        0.000          8.833333
+129        Histórias Sinistras 3        0.000          8.833333
+128          Histórias Sinistras        0.000          8.833333
+126              Hansa Teutonica        0.000          8.833333
+123                       Gùgōng        0.000          8.833333
+Score for comb: [1137, 50450, 78389, 22607] is 148.
+Score for comb after normalization: [1137, 50450, 78389, 22607] is -1.
+Score for comb with log: [1137, 50450, 78389, 22607] is -0.3333333333333333.
+                                               board  ...  predicted_rating
+298                            Vinhos Deluxe Edition  ...          9.059146
+30                               Bang! The Dice Game  ...          9.011924
+164                             Magic: The Gathering  ...          8.884146
+157                               Lords of Waterdeep  ...          8.656369
+93   Dungeons & Dragons: Castle Ravenloft Board Game  ...          8.634146
+138                                         Kanagawa  ...          8.634146
+202                                      Pocket Mars  ...          8.634146
+70                                         Cry Havoc  ...          8.634146
+39                                 Brass: Birmingham  ...          8.634146
+178                                        Mottainai  ...          8.634146
+
+[10 rows x 3 columns]
+Score for comb: [1137, 50450, 74437, 19827] is 183.
+Score for comb after normalization: [1137, 50450, 74437, 19827] is -1.
+Score for comb with log: [1137, 50450, 74437, 19827] is -0.31546487678572877.
+                                               board  ...  predicted_rating
+298                            Vinhos Deluxe Edition  ...          9.059146
+30                               Bang! The Dice Game  ...          9.011924
+164                             Magic: The Gathering  ...          8.884146
+157                               Lords of Waterdeep  ...          8.656369
+93   Dungeons & Dragons: Castle Ravenloft Board Game  ...          8.634146
+138                                         Kanagawa  ...          8.634146
+202                                      Pocket Mars  ...          8.634146
+70                                         Cry Havoc  ...          8.634146
+39                                 Brass: Birmingham  ...          8.634146
+178                                        Mottainai  ...          8.634146
+
+[10 rows x 3 columns]
+Score for comb: [1137, 50450, 74437, 22607] is 183.
+Score for comb after normalization: [1137, 50450, 74437, 22607] is -1.
+Score for comb with log: [1137, 50450, 74437, 22607] is -0.3010299956639812.
+                       board  board_score  predicted_rating
+94                    Hanabi     0.333333          8.487589
+155                 Pandemic     0.300000          8.454255
+218           The Resistance     0.187500          8.222961
+157                Patchwork     0.066667          8.220922
+101                  Imhotep     0.027778          8.182033
+62                    Dobble     0.025000          8.179255
+253                 Yokohama     0.455556          8.169841
+255  Zombicide: Black Plague     0.250000          8.166667
+46                     Claim     0.000000          8.154255
+197              Star Realms     0.000000          8.154255
+Score for comb: [1137, 50450, 19827, 22607] is 95.
+Score for comb after normalization: [1137, 50450, 19827, 22607] is -1.
+Score for comb with log: [1137, 50450, 19827, 22607] is -0.2890648263178879.
+                            board  board_score  predicted_rating
+329  Welcome To: Seu Lar Perfeito     0.250000          9.083333
+167                   Love Letter     0.250000          9.083333
+319         Vinhos Deluxe Edition     0.425000          9.059146
+30            Bang! The Dice Game     0.377778          9.011924
+148                         Kemet     0.100000          8.933333
+54         Chaos in the Old World     0.075000          8.908333
+173          Magic: The Gathering     0.250000          8.884146
+123         Histórias Sinistras 3     0.000000          8.833333
+120               Hansa Teutonica     0.000000          8.833333
+115  Grasse - Mestres Perfumistas     0.000000          8.833333
+Score for comb: [1137, 57865, 78389, 74437] is 236.
+Score for comb after normalization: [1137, 57865, 78389, 74437] is -1.
+Score for comb with log: [1137, 57865, 78389, 74437] is -0.27894294565112987.
+                                    board  board_score  predicted_rating
+167                           Love Letter        0.250          9.083333
+149                                 Kemet        0.100          8.933333
+54                 Chaos in the Old World        0.075          8.908333
+241                           Roll Player        0.000          8.833333
+198  O Pequeno Príncipe : Faça um Planeta        0.000          8.833333
+71         Deception: Murder in Hong Kong        0.000          8.833333
+127                   Histórias Sinistras        0.000          8.833333
+128                 Histórias Sinistras 3        0.000          8.833333
+68                               Cyclades        0.000          8.833333
+129           Histórias Sinistras: Cinema        0.000          8.833333
+Score for comb: [1137, 57865, 78389, 19827] is 150.
+Score for comb after normalization: [1137, 57865, 78389, 19827] is -1.
+Score for comb with log: [1137, 57865, 78389, 19827] is -0.27023815442731974.
+                                    board  board_score  predicted_rating
+167                           Love Letter        0.250          9.083333
+149                                 Kemet        0.100          8.933333
+54                 Chaos in the Old World        0.075          8.908333
+241                           Roll Player        0.000          8.833333
+198  O Pequeno Príncipe : Faça um Planeta        0.000          8.833333
+71         Deception: Murder in Hong Kong        0.000          8.833333
+127                   Histórias Sinistras        0.000          8.833333
+128                 Histórias Sinistras 3        0.000          8.833333
+68                               Cyclades        0.000          8.833333
+129           Histórias Sinistras: Cinema        0.000          8.833333
+Score for comb: [1137, 57865, 78389, 22607] is 150.
+Score for comb after normalization: [1137, 57865, 78389, 22607] is -1.
+Score for comb with log: [1137, 57865, 78389, 22607] is -0.26264953503719357.
+                        board  board_score  predicted_rating
+296     Vinhos Deluxe Edition     0.425000          9.059146
+30        Bang! The Dice Game     0.377778          9.011924
+162      Magic: The Gathering     0.250000          8.884146
+155        Lords of Waterdeep     0.022222          8.656369
+220       Roll for the Galaxy     0.000000          8.634146
+89            Dungeon Fighter     0.000000          8.634146
+35                 Blueprints     0.000000          8.634146
+136                  Kanagawa     0.000000          8.634146
+137  Kanban: Driver's Edition     0.000000          8.634146
+39          Brass: Birmingham     0.000000          8.634146
+Score for comb: [1137, 57865, 74437, 19827] is 186.
+Score for comb after normalization: [1137, 57865, 74437, 19827] is -1.
+Score for comb with log: [1137, 57865, 74437, 19827] is -0.2559580248098155.
+                        board  board_score  predicted_rating
+296     Vinhos Deluxe Edition     0.425000          9.059146
+30        Bang! The Dice Game     0.377778          9.011924
+162      Magic: The Gathering     0.250000          8.884146
+155        Lords of Waterdeep     0.022222          8.656369
+220       Roll for the Galaxy     0.000000          8.634146
+89            Dungeon Fighter     0.000000          8.634146
+35                 Blueprints     0.000000          8.634146
+136                  Kanagawa     0.000000          8.634146
+137  Kanban: Driver's Edition     0.000000          8.634146
+39          Brass: Birmingham     0.000000          8.634146
+Score for comb: [1137, 57865, 74437, 22607] is 186.
+Score for comb after normalization: [1137, 57865, 74437, 22607] is -1.
+Score for comb with log: [1137, 57865, 74437, 22607] is -0.25.
+                       board  board_score  predicted_rating
+93                    Hanabi     0.333333          8.487589
+152                 Pandemic     0.300000          8.454255
+173               Rhino Hero     0.500000          8.416667
+215           The Resistance     0.187500          8.222961
+154                Patchwork     0.066667          8.220922
+99                   Imhotep     0.027778          8.182033
+61                    Dobble     0.025000          8.179255
+250                 Yokohama     0.455556          8.169841
+252  Zombicide: Black Plague     0.250000          8.166667
+122            Mafia de Cuba     0.000000          8.154255
+Score for comb: [1137, 57865, 19827, 22607] is 96.
+Score for comb after normalization: [1137, 57865, 19827, 22607] is -1.
+Score for comb with log: [1137, 57865, 19827, 22607] is -0.24465054211822604.
+                                 board  board_score  predicted_rating
+123                         Gloomhaven     0.500000          9.333333
+178                        Love Letter     0.250000          9.083333
+340              Vinhos Deluxe Edition     0.425000          9.059146
+33                 Bang! The Dice Game     0.377778          9.011924
+159                              Kemet     0.100000          8.933333
+63              Chaos in the Old World     0.075000          8.908333
+185               Magic: The Gathering     0.250000          8.884146
+49                                  CV     0.000000          8.833333
+160    KeyForge: O Chamado De Arcontes     0.000000          8.833333
+330  Twilight Imperium (Quarta Edição)     0.000000          8.833333
+Score for comb: [1137, 78389, 74437, 19827] is 182.
+Score for comb after normalization: [1137, 78389, 74437, 19827] is -1.
+Score for comb with log: [1137, 78389, 74437, 19827] is -0.23981246656813146.
+                                 board  board_score  predicted_rating
+123                         Gloomhaven     0.500000          9.333333
+178                        Love Letter     0.250000          9.083333
+340              Vinhos Deluxe Edition     0.425000          9.059146
+33                 Bang! The Dice Game     0.377778          9.011924
+159                              Kemet     0.100000          8.933333
+63              Chaos in the Old World     0.075000          8.908333
+185               Magic: The Gathering     0.250000          8.884146
+49                                  CV     0.000000          8.833333
+160    KeyForge: O Chamado De Arcontes     0.000000          8.833333
+330  Twilight Imperium (Quarta Edição)     0.000000          8.833333
+Score for comb: [1137, 78389, 74437, 22607] is 182.
+Score for comb after normalization: [1137, 78389, 74437, 22607] is -1.
+Score for comb with log: [1137, 78389, 74437, 22607] is -0.23540891336663824.
+                        board  board_score  predicted_rating
+106                Gloomhaven        0.500          9.333333
+151               Love Letter        0.250          9.083333
+79                  Downforce        0.125          8.958333
+136                     Kemet        0.100          8.933333
+50     Chaos in the Old World        0.075          8.908333
+273           Thurn and Taxis        0.000          8.833333
+133  Kanban: Driver's Edition        0.000          8.833333
+243             Space Cantina        0.000          8.833333
+77                     Dominó        0.000          8.833333
+242               Space Alert        0.000          8.833333
+Score for comb: [1137, 78389, 19827, 22607] is 129.
+Score for comb after normalization: [1137, 78389, 19827, 22607] is -1.
+Score for comb with log: [1137, 78389, 19827, 22607] is -0.23137821315975915.
+                        board  board_score  predicted_rating
+269     Vinhos Deluxe Edition     0.425000          9.059146
+27        Bang! The Dice Game     0.377778          9.011924
+145      Magic: The Gathering     0.250000          8.884146
+29                    Barrage     0.150000          8.784146
+138        Lords of Waterdeep     0.022222          8.656369
+280   Zombicide: Black Plague     0.022222          8.656369
+51                Cartógrafos     0.000000          8.634146
+129     Kingsburg (2ª Edição)     0.000000          8.634146
+134  Letters from Whitechapel     0.000000          8.634146
+136   Lobisomem por uma noite     0.000000          8.634146
+Score for comb: [1137, 74437, 19827, 22607] is 89.
+Score for comb after normalization: [1137, 74437, 19827, 22607] is -1.
+Score for comb with log: [1137, 74437, 19827, 22607] is -0.227670248696953.
+                              board  board_score  predicted_rating
+147                     Love Letter     0.250000          9.083333
+277    Welcome To: Seu Lar Perfeito     0.250000          9.083333
+267           Vinhos Deluxe Edition     0.425000          9.059146
+136                       La Granja     0.287500          9.021240
+27              Bang! The Dice Game     0.377778          9.011924
+44                    Catan: O Jogo     0.262500          8.996240
+128                           Kemet     0.100000          8.933333
+46           Chaos in the Old World     0.075000          8.908333
+152            Magic: The Gathering     0.250000          8.884146
+270  Viticulture - Edição Essencial     0.150000          8.883740
+Score for comb: [50450, 57865, 78389, 74437] is 222.
+Score for comb after normalization: [50450, 57865, 78389, 74437] is -1.
+Score for comb with log: [50450, 57865, 78389, 74437] is -0.22424382421757544.
+                      board  board_score  predicted_rating
+139               La Granja        0.575          9.408333
+149             Love Letter        0.250          9.083333
+130                   Kemet        0.100          8.933333
+47   Chaos in the Old World        0.075          8.908333
+92                     Fear        0.000          8.833333
+225           Space Cantina        0.000          8.833333
+109                  Gùgōng        0.000          8.833333
+224             Space Alert        0.000          8.833333
+111         Hansa Teutonica        0.000          8.833333
+223             Small World        0.000          8.833333
+Score for comb: [50450, 57865, 78389, 19827] is 144.
+Score for comb after normalization: [50450, 57865, 78389, 19827] is -1.
+Score for comb with log: [50450, 57865, 78389, 19827] is -0.22106472945750374.
+                      board  board_score  predicted_rating
+139               La Granja        0.575          9.408333
+149             Love Letter        0.250          9.083333
+130                   Kemet        0.100          8.933333
+47   Chaos in the Old World        0.075          8.908333
+92                     Fear        0.000          8.833333
+225           Space Cantina        0.000          8.833333
+109                  Gùgōng        0.000          8.833333
+224             Space Alert        0.000          8.833333
+111         Hansa Teutonica        0.000          8.833333
+223             Small World        0.000          8.833333
+Score for comb: [50450, 57865, 78389, 22607] is 144.
+Score for comb after normalization: [50450, 57865, 78389, 22607] is -1.
+Score for comb with log: [50450, 57865, 78389, 22607] is -0.21810429198553155.
+                         board  board_score  predicted_rating
+231      Vinhos Deluxe Edition     0.425000          9.059146
+28         Bang! The Dice Game     0.377778          9.011924
+137       Magic: The Gathering     0.250000          8.884146
+133         Lords of Waterdeep     0.022222          8.656369
+123      Kingsburg (2ª Edição)     0.000000          8.634146
+107  Invasores do Mar do Norte     0.000000          8.634146
+130    Lobisomem por uma noite     0.000000          8.634146
+126                  La Granja     0.000000          8.634146
+115   Kanban: Driver's Edition     0.000000          8.634146
+114                   Kanagawa     0.000000          8.634146
+Score for comb: [50450, 57865, 74437, 19827] is 118.
+Score for comb after normalization: [50450, 57865, 74437, 19827] is -1.
+Score for comb with log: [50450, 57865, 74437, 19827] is -0.21533827903669653.
+                         board  board_score  predicted_rating
+231      Vinhos Deluxe Edition     0.425000          9.059146
+28         Bang! The Dice Game     0.377778          9.011924
+137       Magic: The Gathering     0.250000          8.884146
+133         Lords of Waterdeep     0.022222          8.656369
+123      Kingsburg (2ª Edição)     0.000000          8.634146
+107  Invasores do Mar do Norte     0.000000          8.634146
+130    Lobisomem por uma noite     0.000000          8.634146
+126                  La Granja     0.000000          8.634146
+115   Kanban: Driver's Edition     0.000000          8.634146
+114                   Kanagawa     0.000000          8.634146
+Score for comb: [50450, 57865, 74437, 22607] is 118.
+Score for comb after normalization: [50450, 57865, 74437, 22607] is -1.
+Score for comb with log: [50450, 57865, 74437, 22607] is -0.21274605355336312.
+                                           board  board_score  predicted_rating
+173                                     Yokohama     0.455556          8.169841
+175                      Zombicide: Black Plague     0.250000          8.166667
+56                                     El Grande     0.416667          8.130952
+148                               Ticket to Ride     0.200000          8.015476
+46                                         Dixit     0.187674          8.003150
+58                               Eldritch Horror     0.138889          7.954365
+121                                   Rhino Hero     0.000000          7.916667
+168                                         Vudù     0.000000          7.916667
+76   Imperial Settlers: A Ascensão de um Império     0.000000          7.916667
+95               Mansions of Madness (2ª Edição)     0.000000          7.916667
+Score for comb: [50450, 57865, 19827, 22607] is 23.
+Score for comb after normalization: [50450, 57865, 19827, 22607] is 0.
+Score for comb with log: [50450, 57865, 19827, 22607] is 0.0.
+                      board  board_score  predicted_rating
+176             Love Letter     0.250000          9.083333
+314   Vinhos Deluxe Edition     0.425000          9.059146
+165               La Granja     0.287500          9.021240
+35      Bang! The Dice Game     0.377778          9.011924
+155                   Kemet     0.100000          8.933333
+61   Chaos in the Old World     0.075000          8.908333
+182    Magic: The Gathering     0.250000          8.884146
+203                   NMBR9     0.000000          8.833333
+85                     Dogs     0.000000          8.833333
+84     Dobble: Harry Potter     0.000000          8.833333
+Score for comb: [50450, 78389, 74437, 19827] is 178.
+Score for comb after normalization: [50450, 78389, 74437, 19827] is -1.
+Score for comb with log: [50450, 78389, 74437, 19827] is -0.20801459767650948.
+                      board  board_score  predicted_rating
+176             Love Letter     0.250000          9.083333
+314   Vinhos Deluxe Edition     0.425000          9.059146
+165               La Granja     0.287500          9.021240
+35      Bang! The Dice Game     0.377778          9.011924
+155                   Kemet     0.100000          8.933333
+61   Chaos in the Old World     0.075000          8.908333
+182    Magic: The Gathering     0.250000          8.884146
+203                   NMBR9     0.000000          8.833333
+85                     Dogs     0.000000          8.833333
+84     Dobble: Harry Potter     0.000000          8.833333
+Score for comb: [50450, 78389, 74437, 22607] is 178.
+Score for comb after normalization: [50450, 78389, 74437, 22607] is -1.
+Score for comb with log: [50450, 78389, 74437, 22607] is -0.20584683246043448.
+                      board  board_score  predicted_rating
+139               La Granja        0.575          9.408333
+149             Love Letter        0.250          9.083333
+130                   Kemet        0.100          8.933333
+47   Chaos in the Old World        0.075          8.908333
+91                  Fallout        0.000          8.833333
+109                  Gùgōng        0.000          8.833333
+225           Space Cantina        0.000          8.833333
+111         Hansa Teutonica        0.000          8.833333
+224             Space Alert        0.000          8.833333
+113     Histórias Sinistras        0.000          8.833333
+Score for comb: [50450, 78389, 19827, 22607] is 121.
+Score for comb after normalization: [50450, 78389, 19827, 22607] is -1.
+Score for comb with log: [50450, 78389, 19827, 22607] is -0.2037950470905062.
+                         board  board_score  predicted_rating
+231      Vinhos Deluxe Edition     0.425000          9.059146
+28         Bang! The Dice Game     0.377778          9.011924
+137       Magic: The Gathering     0.250000          8.884146
+133         Lords of Waterdeep     0.022222          8.656369
+123      Kingsburg (2ª Edição)     0.000000          8.634146
+107  Invasores do Mar do Norte     0.000000          8.634146
+130    Lobisomem por uma noite     0.000000          8.634146
+126                  La Granja     0.000000          8.634146
+115   Kanban: Driver's Edition     0.000000          8.634146
+114                   Kanagawa     0.000000          8.634146
+Score for comb: [50450, 74437, 19827, 22607] is 88.
+Score for comb after normalization: [50450, 74437, 19827, 22607] is -1.
+Score for comb with log: [50450, 74437, 19827, 22607] is -0.20184908658209985.
+                                    board  board_score  predicted_rating
+174                           Love Letter     0.250000          9.083333
+312                 Vinhos Deluxe Edition     0.425000          9.059146
+163                             La Granja     0.287500          9.021240
+35                    Bang! The Dice Game     0.377778          9.011924
+153                                 Kemet     0.100000          8.933333
+60                 Chaos in the Old World     0.075000          8.908333
+180                  Magic: The Gathering     0.250000          8.884146
+204  O Pequeno Príncipe : Faça um Planeta     0.000000          8.833333
+129                       Hansa Teutonica     0.000000          8.833333
+119                        Galaxy Trucker     0.000000          8.833333
+Score for comb: [57865, 78389, 74437, 19827] is 182.
+Score for comb after normalization: [57865, 78389, 74437, 19827] is -1.
+Score for comb with log: [57865, 78389, 74437, 19827] is -0.2.
+                                    board  board_score  predicted_rating
+174                           Love Letter     0.250000          9.083333
+312                 Vinhos Deluxe Edition     0.425000          9.059146
+163                             La Granja     0.287500          9.021240
+35                    Bang! The Dice Game     0.377778          9.011924
+153                                 Kemet     0.100000          8.933333
+60                 Chaos in the Old World     0.075000          8.908333
+180                  Magic: The Gathering     0.250000          8.884146
+204  O Pequeno Príncipe : Faça um Planeta     0.000000          8.833333
+129                       Hansa Teutonica     0.000000          8.833333
+119                        Galaxy Trucker     0.000000          8.833333
+Score for comb: [57865, 78389, 74437, 22607] is 182.
+Score for comb after normalization: [57865, 78389, 74437, 22607] is -1.
+Score for comb with log: [57865, 78389, 74437, 22607] is -0.19823986317056053.
+                      board  board_score  predicted_rating
+136               La Granja        0.575          9.408333
+146             Love Letter        0.250          9.083333
+128                   Kemet        0.100          8.933333
+46   Chaos in the Old World        0.075          8.908333
+96       Food Chain Magnate        0.000          8.833333
+177               Patuscada        0.000          8.833333
+93          Fields of Green        0.000          8.833333
+92                   Feudum        0.000          8.833333
+183              Pot de Vin        0.000          8.833333
+91                     Fear        0.000          8.833333
+Score for comb: [57865, 78389, 19827, 22607] is 125.
+Score for comb after normalization: [57865, 78389, 19827, 22607] is -1.
+Score for comb with log: [57865, 78389, 19827, 22607] is -0.1965616322328226.
+                        board  board_score  predicted_rating
+228     Vinhos Deluxe Edition     0.425000          9.059146
+28        Bang! The Dice Game     0.377778          9.011924
+135      Magic: The Gathering     0.250000          8.884146
+131        Lords of Waterdeep     0.022222          8.656369
+121     Kingsburg (2ª Edição)     0.000000          8.634146
+108                     Jenga     0.000000          8.634146
+128   Lobisomem por uma noite     0.000000          8.634146
+124                 La Granja     0.000000          8.634146
+118          King of New York     0.000000          8.634146
+113  Kanban: Driver's Edition     0.000000          8.634146
+Score for comb: [57865, 74437, 19827, 22607] is 90.
+Score for comb after normalization: [57865, 74437, 19827, 22607] is -1.
+Score for comb with log: [57865, 74437, 19827, 22607] is -0.1949590218937863.
+                                 board  board_score  predicted_rating
+111                         Gloomhaven     0.500000          9.333333
+160                        Love Letter     0.250000          9.083333
+291              Vinhos Deluxe Edition     0.425000          9.059146
+150                          La Granja     0.287500          9.021240
+32                 Bang! The Dice Game     0.377778          9.011924
+141                              Kemet     0.100000          8.933333
+57              Chaos in the Old World     0.075000          8.908333
+166               Magic: The Gathering     0.250000          8.884146
+127                      Imperial 2030     0.000000          8.833333
+122  Histórias Sinistras: Crimes Reais     0.000000          8.833333
+Score for comb: [78389, 74437, 19827, 22607] is 177.
+Score for comb after normalization: [78389, 74437, 19827, 22607] is -1.
+Score for comb with log: [78389, 74437, 19827, 22607] is -0.19342640361727081.

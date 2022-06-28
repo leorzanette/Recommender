@@ -1,0 +1,497 @@
+top 6 dixit
+                              board  board_score  predicted_rating
+67                     Fotossíntese     0.791667          8.657520
+123                          Merlin     0.125000          7.990854
+117            Magic: The Gathering     0.166667          7.963599
+177       Teotihuacan: City of Gods     0.250000          7.956024
+60                  Eldritch Horror     0.241562          7.935853
+12                             Azul     0.237500          7.931790
+65                      Five Tribes     0.083333          7.880266
+127  Monopoly Deal - Jogo de Cartas     0.000000          7.865854
+122                      Mega Senha     0.000000          7.865854
+119                       Maracaibo     0.000000          7.865854
+Score for comb: [50450, 57865, 11848, 3886] is 219.
+Score for comb after normalization: [50450, 57865, 11848, 3886] is -1.
+Score for comb with log: [50450, 57865, 11848, 3886] is -1.0.
+                                 board  board_score  predicted_rating
+16            As Viagens de Marco Polo     0.875000           9.35000
+71                        Fotossíntese     0.791667           8.65752
+81                 Grand Austria Hotel     0.175000           8.65000
+164                           Sherlock     0.000000           8.47500
+170               Star Wars: Rebellion     0.000000           8.47500
+192                 Tigris & Euphrates     0.000000           8.47500
+185            The Quest for El Dorado     0.000000           8.47500
+184              The Manhattan Project     0.000000           8.47500
+61   Dungeon Saga: A Busca do Rei Anão     0.000000           8.47500
+124                   Massive Darkness     0.000000           8.47500
+Score for comb: [50450, 57865, 11848, 69432] is 222.
+Score for comb after normalization: [50450, 57865, 11848, 69432] is -1.
+Score for comb with log: [50450, 57865, 11848, 69432] is -0.6309297535714575.
+                                    board  board_score  predicted_rating
+85                           Fotossíntese     0.791667          8.657520
+76                        Eldritch Horror     0.353333          8.059357
+218             Teotihuacan: City of Gods     0.250000          7.956024
+162                               Nemesis     0.000000          7.865854
+150                            Mega Senha     0.000000          7.865854
+28   Battlestar Galactica: The Board Game     0.000000          7.865854
+237                      Timeline: Brasil     0.000000          7.865854
+125                       Kingdom Builder     0.000000          7.865854
+232      Ticket to Ride: 10th Anniversary     0.000000          7.865854
+103                     Heróis e Monstros     0.000000          7.865854
+Score for comb: [50450, 57865, 11848, 46547] is 150.
+Score for comb after normalization: [50450, 57865, 11848, 46547] is -1.
+Score for comb with log: [50450, 57865, 11848, 46547] is -0.5.
+                                board  board_score  predicted_rating
+84                       Fotossíntese     0.791667          8.657520
+75                    Eldritch Horror     0.353333          8.059357
+214         Teotihuacan: City of Gods     0.250000          7.956024
+122          Kick-Ass: The Board Game     0.000000          7.865854
+192                     Scotland Yard     0.000000          7.865854
+106                              Hive     0.000000          7.865854
+126                  Krosmaster Arena     0.000000          7.865854
+227  Ticket to Ride: 10th Anniversary     0.000000          7.865854
+127                             LHAMA     0.000000          7.865854
+102                 Heróis e Monstros     0.000000          7.865854
+Score for comb: [50450, 57865, 11848, 53962] is 151.
+Score for comb after normalization: [50450, 57865, 11848, 53962] is -1.
+Score for comb with log: [50450, 57865, 11848, 53962] is -0.43067655807339306.
+                                        board  board_score  predicted_rating
+16                   As Viagens de Marco Polo     0.875000          9.350000
+227                        Zombicide: Invader     0.444444          8.919444
+74                               Fotossíntese     0.791667          8.657520
+81                        Grand Austria Hotel     0.175000          8.650000
+114                                      Loot     0.000000          8.475000
+169                           Schotten Totten     0.000000          8.475000
+62          Dungeon Saga: A Busca do Rei Anão     0.000000          8.475000
+172                  Sentinelas do Multiverso     0.000000          8.475000
+173                                  Sherlock     0.000000          8.475000
+174  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+Score for comb: [50450, 57865, 3886, 69432] is 226.
+Score for comb after normalization: [50450, 57865, 3886, 69432] is -1.
+Score for comb with log: [50450, 57865, 3886, 69432] is -0.38685280723454163.
+                                              board  ...  predicted_rating
+88                                     Fotossíntese  ...          8.657520
+222                       Teotihuacan: City of Gods  ...          8.240854
+78                                  Eldritch Horror  ...          8.119016
+263                                          Xadrez  ...          7.887472
+91                                           Gizmos  ...          7.865854
+92                                            Gloom  ...          7.865854
+218                     Survive: Fuga de Atlântida!  ...          7.865854
+60   Descent: Journeys in the Dark (second edition)  ...          7.865854
+201                                   Scotland Yard  ...          7.865854
+34                                Brass: Birmingham  ...          7.865854
+
+[10 rows x 3 columns]
+Score for comb: [50450, 57865, 3886, 46547] is 147.
+Score for comb after normalization: [50450, 57865, 3886, 46547] is -1.
+Score for comb with log: [50450, 57865, 3886, 46547] is -0.3562071871080222.
+                                    board  board_score  predicted_rating
+87                           Fotossíntese     0.791667          8.657520
+217             Teotihuacan: City of Gods     0.375000          8.240854
+77                        Eldritch Horror     0.322083          8.119016
+32                      Brass: Birmingham     0.000000          7.865854
+46   Clank!: Um Deck Building de Aventura     0.000000          7.865854
+154        Monopoly Deal - Jogo de Cartas     0.000000          7.865854
+233                      Timeline: Brasil     0.000000          7.865854
+215          Taco Gato Cabra Queijo Pizza     0.000000          7.865854
+100                     Heróis e Monstros     0.000000          7.865854
+138                           Love Letter     0.000000          7.865854
+Score for comb: [50450, 57865, 3886, 53962] is 145.
+Score for comb after normalization: [50450, 57865, 3886, 53962] is -1.
+Score for comb with log: [50450, 57865, 3886, 53962] is -0.3333333333333333.
+                                 board  board_score  predicted_rating
+20            As Viagens de Marco Polo     0.875000          9.350000
+265                 Zombicide: Invader     0.444444          8.919444
+90                        Fotossíntese     0.791667          8.657520
+79                     Eldritch Horror     0.450556          8.519458
+76   Dungeon Saga: A Busca do Rei Anão     0.000000          8.475000
+110                           Interpol     0.000000          8.475000
+53                             Coimbra     0.000000          8.475000
+24                   Banco Imobiliário     0.000000          8.475000
+177                        Pocket Mars     0.000000          8.475000
+93                       Ghost Stories     0.000000          8.475000
+Score for comb: [50450, 57865, 69432, 46547] is 148.
+Score for comb after normalization: [50450, 57865, 69432, 46547] is -1.
+Score for comb with log: [50450, 57865, 69432, 46547] is -0.31546487678572877.
+                                        board  board_score  predicted_rating
+20                   As Viagens de Marco Polo     0.875000          9.350000
+270                        Zombicide: Invader     0.444444          8.919444
+91                               Fotossíntese     0.791667          8.657520
+80                            Eldritch Horror     0.450556          8.519458
+205  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+90                                   For Sale     0.000000          8.475000
+198                           Schotten Totten     0.000000          8.475000
+255              Vast: As Cavernas de Cristal     0.000000          8.475000
+88                    Flash Point: Ao Resgate     0.000000          8.475000
+85                                 Fairy Tile     0.000000          8.475000
+Score for comb: [50450, 57865, 69432, 53962] is 158.
+Score for comb after normalization: [50450, 57865, 69432, 53962] is -1.
+Score for comb with log: [50450, 57865, 69432, 53962] is -0.3010299956639812.
+                                    board  board_score  predicted_rating
+76                           Fotossíntese     0.791667          8.657520
+68                        Eldritch Horror     0.530000          8.395854
+194             Teotihuacan: City of Gods     0.375000          8.240854
+43                      Clãs da Caledônia     0.000000          7.865854
+61                            Don Capollo     0.000000          7.865854
+190           Survive: Fuga de Atlântida!     0.000000          7.865854
+173                         Scotland Yard     0.000000          7.865854
+42   Clank!: Um Deck Building de Aventura     0.000000          7.865854
+87                                 Hadara     0.000000          7.865854
+44                                Combate     0.000000          7.865854
+Score for comb: [50450, 57865, 46547, 53962] is 109.
+Score for comb after normalization: [50450, 57865, 46547, 53962] is -1.
+Score for comb with log: [50450, 57865, 46547, 53962] is -0.2890648263178879.
+                                        board  board_score  predicted_rating
+18                   As Viagens de Marco Polo        0.875          9.350000
+93                        Grand Austria Hotel        0.175          8.650000
+83                               Fotossíntese        0.750          8.615854
+200                  Sentinelas do Multiverso        0.000          8.475000
+150                                Memoir ‘44        0.000          8.475000
+203  Sid Meier's Civilization: The Board Game        0.000          8.475000
+202                                  Sherlock        0.000          8.475000
+77                                 Fairy Tile        0.000          8.475000
+39                      Caverna: Cave vs Cave        0.000          8.475000
+197                           Schotten Totten        0.000          8.475000
+Score for comb: [50450, 11848, 3886, 69432] is 224.
+Score for comb after normalization: [50450, 11848, 3886, 69432] is -1.
+Score for comb with log: [50450, 11848, 3886, 69432] is -0.27894294565112987.
+                              board  board_score  predicted_rating
+97                     Fotossíntese         0.75          8.615854
+178  Monopoly Deal - Jogo de Cartas         0.00          7.865854
+112                          Hadara         0.00          7.865854
+282               Ultimate Warriorz         0.00          7.865854
+55                Clãs da Caledônia         0.00          7.865854
+58                          Combate         0.00          7.865854
+247    Taco Gato Cabra Queijo Pizza         0.00          7.865854
+291                            Vudù         0.00          7.865854
+292             WAR: Império Romano         0.00          7.865854
+245     Survive: Fuga de Atlântida!         0.00          7.865854
+Score for comb: [50450, 11848, 3886, 46547] is 170.
+Score for comb after normalization: [50450, 11848, 3886, 46547] is -1.
+Score for comb with log: [50450, 11848, 3886, 46547] is -0.27023815442731974.
+                           board  board_score  predicted_rating
+96                  Fotossíntese         0.75          8.615854
+287                       War II         0.00          7.865854
+284                         Vudù         0.00          7.865854
+118                         Hive         0.00          7.865854
+33                       Bonfire         0.00          7.865854
+275            Ultimate Warriorz         0.00          7.865854
+274  Tzolk'in: O Calendário Maia         0.00          7.865854
+114            Heróis e Monstros         0.00          7.865854
+223                Scotland Yard         0.00          7.865854
+158                  Love Letter         0.00          7.865854
+Score for comb: [50450, 11848, 3886, 53962] is 173.
+Score for comb after normalization: [50450, 11848, 3886, 53962] is -1.
+Score for comb with log: [50450, 11848, 3886, 53962] is -0.26264953503719357.
+                                 board  board_score  predicted_rating
+21            As Viagens de Marco Polo        0.875          9.350000
+97                        Fotossíntese        0.750          8.615854
+169              Merchants & Marauders        0.000          8.475000
+25                   Banco Imobiliário        0.000          8.475000
+96                            For Sale        0.000          8.475000
+94             Flash Point: Ao Resgate        0.000          8.475000
+218           Sentinelas do Multiverso        0.000          8.475000
+91                          Fairy Tile        0.000          8.475000
+82   Dungeon Saga: A Busca do Rei Anão        0.000          8.475000
+277       Vast: As Cavernas de Cristal        0.000          8.475000
+Score for comb: [50450, 11848, 69432, 46547] is 171.
+Score for comb after normalization: [50450, 11848, 69432, 46547] is -1.
+Score for comb with log: [50450, 11848, 69432, 46547] is -0.2559580248098155.
+                            board  board_score  predicted_rating
+21       As Viagens de Marco Polo        0.875          9.350000
+98                   Fotossíntese        0.750          8.615854
+152                          Loot        0.000          8.475000
+173         Merchants & Marauders        0.000          8.475000
+267           Timeline: Diversity        0.000          8.475000
+256       The Quest for El Dorado        0.000          8.475000
+100                        Friday        0.000          8.475000
+97                       For Sale        0.000          8.475000
+282  Vast: As Cavernas de Cristal        0.000          8.475000
+172                    Memoir ‘44        0.000          8.475000
+Score for comb: [50450, 11848, 69432, 53962] is 181.
+Score for comb after normalization: [50450, 11848, 69432, 53962] is -1.
+Score for comb with log: [50450, 11848, 69432, 53962] is -0.25.
+                                    board  board_score  predicted_rating
+86                           Fotossíntese         0.75          8.615854
+125              Kick-Ass: The Board Game         0.00          7.865854
+242                      Timeline: Brasil         0.00          7.865854
+161        Monopoly Deal - Jogo de Cartas         0.00          7.865854
+167                               Nemesis         0.00          7.865854
+252                     Ultimate Warriorz         0.00          7.865854
+251           Tzolk'in: O Calendário Maia         0.00          7.865854
+28   Battlestar Galactica: The Board Game         0.00          7.865854
+179                              Piratas!         0.00          7.865854
+181                            Power Grid         0.00          7.865854
+Score for comb: [50450, 11848, 46547, 53962] is 127.
+Score for comb after normalization: [50450, 11848, 46547, 53962] is -1.
+Score for comb with log: [50450, 11848, 46547, 53962] is -0.24465054211822604.
+                                        board  board_score  predicted_rating
+20                   As Viagens de Marco Polo     0.875000          9.350000
+298                        Zombicide: Invader     0.444444          8.919444
+99                               Fotossíntese     0.750000          8.615854
+247                 Teotihuacan: City of Gods     0.326389          8.496816
+229  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+161            Mage Knight: Edição Definitiva     0.000000          8.475000
+279                        Um Banquete a Odin     0.000000          8.475000
+275         Twilight Imperium (Quarta Edição)     0.000000          8.475000
+50                      Caverna: Cave vs Cave     0.000000          8.475000
+152                                      Loot     0.000000          8.475000
+Score for comb: [50450, 3886, 69432, 46547] is 164.
+Score for comb after normalization: [50450, 3886, 69432, 46547] is -1.
+Score for comb with log: [50450, 3886, 69432, 46547] is -0.23981246656813146.
+                                                 board  ...  predicted_rating
+20                            As Viagens de Marco Polo  ...          9.350000
+302                                 Zombicide: Invader  ...          8.919444
+100                                       Fotossíntese  ...          8.615854
+251                          Teotihuacan: City of Gods  ...          8.496816
+196                                            On Mars  ...          8.475000
+138                    KeyForge: O Chamado De Arcontes  ...          8.475000
+265  Through The Ages: Uma Nova História da Civiliz...  ...          8.475000
+160                            Love Letter (2ª Edição)  ...          8.475000
+224                                          Santorini  ...          8.475000
+270                                 Tigris & Euphrates  ...          8.475000
+
+[10 rows x 3 columns]
+Score for comb: [50450, 3886, 69432, 53962] is 174.
+Score for comb after normalization: [50450, 3886, 69432, 53962] is -1.
+Score for comb with log: [50450, 3886, 69432, 53962] is -0.23540891336663824.
+                           board  board_score  predicted_rating
+88                  Fotossíntese     0.750000          8.615854
+225    Teotihuacan: City of Gods     0.375000          8.240854
+78               Eldritch Horror     0.170625          7.933097
+92                        Gizmos     0.000000          7.865854
+182                     Piratas!     0.000000          7.865854
+221  Survive: Fuga de Atlântida!     0.000000          7.865854
+142                  Love Letter     0.000000          7.865854
+204                Scotland Yard     0.000000          7.865854
+33             Brass: Birmingham     0.000000          7.865854
+73                  Draftosaurus     0.000000          7.865854
+Score for comb: [50450, 3886, 46547, 53962] is 117.
+Score for comb after normalization: [50450, 3886, 46547, 53962] is -1.
+Score for comb with log: [50450, 3886, 46547, 53962] is -0.23137821315975915.
+                                        board  board_score  predicted_rating
+19                   As Viagens de Marco Polo     0.875000          9.350000
+269                        Zombicide: Invader     0.444444          8.919444
+90                               Fotossíntese     0.750000          8.615854
+79                            Eldritch Horror     0.363333          8.533760
+222                 Teotihuacan: City of Gods     0.326389          8.496816
+59                             Código Secreto     0.000000          8.475000
+204  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+181                               Pocket Mars     0.000000          8.475000
+254              Vast: As Cavernas de Cristal     0.000000          8.475000
+152                          Massive Darkness     0.000000          8.475000
+Score for comb: [50450, 69432, 46547, 53962] is 137.
+Score for comb after normalization: [50450, 69432, 46547, 53962] is -1.
+Score for comb with log: [50450, 69432, 46547, 53962] is -0.227670248696953.
+                                        board  board_score  predicted_rating
+18                   As Viagens de Marco Polo     0.875000          9.350000
+83                               Fotossíntese     0.833333          8.699187
+93                        Grand Austria Hotel     0.175000          8.650000
+130                                      Loot     0.000000          8.475000
+149                     Merchants & Marauders     0.000000          8.475000
+201  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+200                                  Sherlock     0.000000          8.475000
+77                                 Fairy Tile     0.000000          8.475000
+39                      Caverna: Cave vs Cave     0.000000          8.475000
+195                           Schotten Totten     0.000000          8.475000
+Score for comb: [57865, 11848, 3886, 69432] is 219.
+Score for comb after normalization: [57865, 11848, 3886, 69432] is -1.
+Score for comb with log: [57865, 11848, 3886, 69432] is -0.22424382421757544.
+                           board  board_score  predicted_rating
+97                  Fotossíntese     0.833333          8.699187
+105                        Gloom     0.000000          7.865854
+280  Tzolk'in: O Calendário Maia     0.000000          7.865854
+170                   Mega Senha     0.000000          7.865854
+23        Banco Imobiliário Luxo     0.000000          7.865854
+200                     Piratas!     0.000000          7.865854
+183                      Nemesis     0.000000          7.865854
+289          WAR: Império Romano     0.000000          7.865854
+244  Survive: Fuga de Atlântida!     0.000000          7.865854
+104                       Gizmos     0.000000          7.865854
+Score for comb: [57865, 11848, 3886, 46547] is 158.
+Score for comb after normalization: [57865, 11848, 3886, 46547] is -1.
+Score for comb with log: [57865, 11848, 3886, 46547] is -0.22106472945750374.
+                            board  board_score  predicted_rating
+96                   Fotossíntese     0.833333          8.699187
+242  Taco Gato Cabra Queijo Pizza     0.000000          7.865854
+283           WAR: Império Romano     0.000000          7.865854
+274   Tzolk'in: O Calendário Maia     0.000000          7.865854
+265              Timeline: Brasil     0.000000          7.865854
+53              Clãs da Caledônia     0.000000          7.865854
+56                        Combate     0.000000          7.865854
+169                    Mega Senha     0.000000          7.865854
+240   Survive: Fuga de Atlântida!     0.000000          7.865854
+223                 Scotland Yard     0.000000          7.865854
+Score for comb: [57865, 11848, 3886, 53962] is 160.
+Score for comb after normalization: [57865, 11848, 3886, 53962] is -1.
+Score for comb with log: [57865, 11848, 3886, 53962] is -0.21810429198553155.
+                                 board  board_score  predicted_rating
+21            As Viagens de Marco Polo     0.875000          9.350000
+97                        Fotossíntese     0.833333          8.699187
+20        As Tabernas do Vale Profundo     0.000000          8.475000
+15     Archaeology: The New Expedition     0.000000          8.475000
+267  Twilight Imperium (Quarta Edição)     0.000000          8.475000
+163                   Massive Darkness     0.000000          8.475000
+25                   Banco Imobiliário     0.000000          8.475000
+51       Century: Rota das Especiarias     0.000000          8.475000
+212                          Santorini     0.000000          8.475000
+49               Caverna: Cave vs Cave     0.000000          8.475000
+Score for comb: [57865, 11848, 69432, 46547] is 162.
+Score for comb after normalization: [57865, 11848, 69432, 46547] is -1.
+Score for comb with log: [57865, 11848, 69432, 46547] is -0.21533827903669653.
+                                 board  board_score  predicted_rating
+21            As Viagens de Marco Polo     0.875000          9.350000
+98                        Fotossíntese     0.833333          8.699187
+95             Flash Point: Ao Resgate     0.000000          8.475000
+82                     Dungeon Fighter     0.000000          8.475000
+49               Caverna: Cave vs Cave     0.000000          8.475000
+51       Century: Rota das Especiarias     0.000000          8.475000
+161     Mage Knight: Edição Definitiva     0.000000          8.475000
+273  Twilight Imperium (Quarta Edição)     0.000000          8.475000
+66                      Código Secreto     0.000000          8.475000
+219                    Schotten Totten     0.000000          8.475000
+Score for comb: [57865, 11848, 69432, 53962] is 173.
+Score for comb after normalization: [57865, 11848, 69432, 53962] is -1.
+Score for comb with log: [57865, 11848, 69432, 53962] is -0.21274605355336312.
+                                    board  board_score  predicted_rating
+85                           Fotossíntese     0.833333          8.699187
+76                        Eldritch Horror     0.312500          7.938609
+70                            Don Capollo     0.000000          7.865854
+179                            Power Grid     0.000000          7.865854
+125                       Kingdom Builder     0.000000          7.865854
+240                      Timeline: Brasil     0.000000          7.865854
+216           Survive: Fuga de Atlântida!     0.000000          7.865854
+28   Battlestar Galactica: The Board Game     0.000000          7.865854
+177                              Piratas!     0.000000          7.865854
+104                     Heróis e Monstros     0.000000          7.865854
+Score for comb: [57865, 11848, 46547, 53962] is 118.
+Score for comb after normalization: [57865, 11848, 46547, 53962] is -1.
+Score for comb with log: [57865, 11848, 46547, 53962] is -0.2103099178571525.
+                                              board  ...  predicted_rating
+21                         As Viagens de Marco Polo  ...          9.350000
+294                              Zombicide: Invader  ...          8.919444
+100                                    Fotossíntese  ...          8.699187
+247                       Teotihuacan: City of Gods  ...          8.496816
+161                  Mage Knight: Edição Definitiva  ...          8.475000
+255                           The Manhattan Project  ...          8.475000
+84                Dungeon Saga: A Busca do Rei Anão  ...          8.475000
+288                          Welcome to the Dungeon  ...          8.475000
+220                                       Santorini  ...          8.475000
+68   Descent: Journeys in the Dark (second edition)  ...          8.475000
+
+[10 rows x 3 columns]
+Score for comb: [57865, 3886, 69432, 46547] is 159.
+Score for comb after normalization: [57865, 3886, 69432, 46547] is -1.
+Score for comb with log: [57865, 3886, 69432, 46547] is -0.20801459767650948.
+                         board  board_score  predicted_rating
+21    As Viagens de Marco Polo     0.875000          9.350000
+299         Zombicide: Invader     0.444444          8.919444
+101               Fotossíntese     0.833333          8.699187
+252  Teotihuacan: City of Gods     0.326389          8.496816
+263    The Quest for El Dorado     0.000000          8.475000
+227            Schotten Totten     0.000000          8.475000
+103                     Friday     0.000000          8.475000
+100                   For Sale     0.000000          8.475000
+172           Massive Darkness     0.000000          8.475000
+57                     Coimbra     0.000000          8.475000
+Score for comb: [57865, 3886, 69432, 53962] is 171.
+Score for comb after normalization: [57865, 3886, 69432, 53962] is -1.
+Score for comb with log: [57865, 3886, 69432, 53962] is -0.20584683246043448.
+                         board  board_score  predicted_rating
+88                Fotossíntese     0.833333          8.699187
+225  Teotihuacan: City of Gods     0.375000          8.240854
+78             Eldritch Horror     0.265625          8.028097
+153                 Mega Senha     0.000000          7.865854
+92                      Gizmos     0.000000          7.865854
+34           Brass: Birmingham     0.000000          7.865854
+93                       Gloom     0.000000          7.865854
+95                  Gnomopolis     0.000000          7.865854
+142                Love Letter     0.000000          7.865854
+97         Great Western Trail     0.000000          7.865854
+Score for comb: [57865, 3886, 46547, 53962] is 111.
+Score for comb after normalization: [57865, 3886, 46547, 53962] is -1.
+Score for comb with log: [57865, 3886, 46547, 53962] is -0.2037950470905062.
+                            board  board_score  predicted_rating
+20       As Viagens de Marco Polo     0.875000          9.350000
+265            Zombicide: Invader     0.444444          8.919444
+91                   Fotossíntese     0.833333          8.699187
+80                Eldritch Horror     0.458333          8.628760
+222     Teotihuacan: City of Gods     0.326389          8.496816
+196                     Santorini     0.000000          8.475000
+253  Vast: As Cavernas de Cristal     0.000000          8.475000
+60                 Código Secreto     0.000000          8.475000
+112                      Interpol     0.000000          8.475000
+200      Sentinelas do Multiverso     0.000000          8.475000
+Score for comb: [57865, 69432, 46547, 53962] is 130.
+Score for comb after normalization: [57865, 69432, 46547, 53962] is -1.
+Score for comb with log: [57865, 69432, 46547, 53962] is -0.20184908658209985.
+                                        board  board_score  predicted_rating
+22                   As Viagens de Marco Polo     0.875000          9.350000
+11                                Alquimistas     0.472222          8.947222
+233  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+104                                  For Sale     0.000000          8.475000
+229                  Sentinelas do Multiverso     0.000000          8.475000
+52                      Caverna: Cave vs Cave     0.000000          8.475000
+21               As Tabernas do Vale Profundo     0.000000          8.475000
+231                                  Sherlock     0.000000          8.475000
+174                     Merchants & Marauders     0.000000          8.475000
+201                               Pocket Mars     0.000000          8.475000
+Score for comb: [11848, 3886, 69432, 46547] is 163.
+Score for comb after normalization: [11848, 3886, 69432, 46547] is -1.
+Score for comb with log: [11848, 3886, 69432, 46547] is -0.2.
+                                        board  board_score  predicted_rating
+22                   As Viagens de Marco Polo     0.875000          9.350000
+11                                Alquimistas     0.472222          8.947222
+103                   Flash Point: Ao Resgate     0.000000          8.475000
+238  Sid Meier's Civilization: The Board Game     0.000000          8.475000
+178                                Memoir ‘44     0.000000          8.475000
+27                     Banco Imobiliário Luxo     0.000000          8.475000
+285         Twilight Imperium (Quarta Edição)     0.000000          8.475000
+105                                  For Sale     0.000000          8.475000
+278                       Timeline: Diversity     0.000000          8.475000
+276                        Tigris & Euphrates     0.000000          8.475000
+Score for comb: [11848, 3886, 69432, 53962] is 176.
+Score for comb after normalization: [11848, 3886, 69432, 53962] is -1.
+Score for comb with log: [11848, 3886, 69432, 53962] is -0.19823986317056053.
+                                    board  board_score  predicted_rating
+188                            Power Grid        0.175          7.834091
+61                         Código Secreto        0.000          7.659091
+74                               Dominion        0.000          7.659091
+115                               Imagine        0.000          7.659091
+27                          Batalha Naval        0.000          7.659091
+80                        Dungeon Fighter        0.000          7.659091
+29   Battlestar Galactica: The Board Game        0.000          7.659091
+174                O Jogo da Enciclopédia        0.000          7.659091
+118           Interpol: Fuga em Nova York        0.000          7.659091
+76                            Don Capollo        0.000          7.659091
+Score for comb: [11848, 3886, 46547, 53962] is 115.
+Score for comb after normalization: [11848, 3886, 46547, 53962] is -1.
+Score for comb with log: [11848, 3886, 46547, 53962] is -0.1965616322328226.
+                                 board  board_score  predicted_rating
+21            As Viagens de Marco Polo     0.875000          9.350000
+11                         Alquimistas     0.472222          8.947222
+64                      Código Secreto     0.000000          8.475000
+248  Twilight Imperium (Quarta Edição)     0.000000          8.475000
+25                   Banco Imobiliário     0.000000          8.475000
+157              Merchants & Marauders     0.000000          8.475000
+88                          Fairy Tile     0.000000          8.475000
+241                Timeline: Diversity     0.000000          8.475000
+131                   Krosmaster Arena     0.000000          8.475000
+138                               Loot     0.000000          8.475000
+Score for comb: [11848, 69432, 46547, 53962] is 133.
+Score for comb after normalization: [11848, 69432, 46547, 53962] is -1.
+Score for comb with log: [11848, 69432, 46547, 53962] is -0.1949590218937863.
+                                    board  board_score  predicted_rating
+20               As Viagens de Marco Polo     0.875000          9.350000
+9                             Alquimistas     0.472222          8.947222
+273                    Zombicide: Invader     0.444444          8.919444
+229             Teotihuacan: City of Gods     0.277778          8.752778
+54   Clank!: Um Deck Building de Aventura     0.111111          8.586111
+90                             Fairy Tile     0.000000          8.475000
+56                                Coimbra     0.000000          8.475000
+150        Mage Knight: Edição Definitiva     0.000000          8.475000
+38                      Brass: Birmingham     0.000000          8.475000
+256     Twilight Imperium (Quarta Edição)     0.000000          8.475000
+Score for comb: [3886, 69432, 46547, 53962] is 129.
+Score for comb after normalization: [3886, 69432, 46547, 53962] is -1.
+Score for comb with log: [3886, 69432, 46547, 53962] is -0.19342640361727081.

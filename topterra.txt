@@ -1,0 +1,510 @@
+C:\Users\leorz\PycharmProjects\getfromAPI\venv\Scripts\python.exe C:/Users/leorz/PycharmProjects/NewScraper/teste_DCG.py
+                                board  board_score  predicted_rating
+272                 Russian Railroads          0.0          8.325581
+18      Arquitetos do Reino Ocidental          0.0          8.325581
+237      Paladinos do Reino Ocidental          0.0          8.325581
+21       As Tabernas do Vale Profundo          0.0          8.325581
+45                  Brass: Lancashire          0.0          8.325581
+295                  Splendor: Marvel          0.0          8.325581
+242  Pathfinder - O Jogo de Aventuras          0.0          8.325581
+111                 El Grande Big Box          0.0          8.325581
+176       King of Tokyo: Dark Edition          0.0          8.325581
+153              Ilha dos Dinossauros          0.0          8.325581
+None
+Zombiciders:  143
+Dixiters:  306
+Gloomhaveners 176
+top 7 terraforming mars
+                                 board  board_score  predicted_rating
+53                    Carcassonne Plus     0.500000          8.956757
+165                           Le Havre     0.500000          8.956757
+259               Shadowrun: Crossfire     0.500000          8.886364
+320  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+331                              Viral     0.400000          8.856757
+337          War: O jogo da estratégia     0.566667          8.833818
+9                             Agricola     0.425000          8.811364
+161                   Krosmaster Arena     0.333333          8.790090
+13                         Alquimistas     0.400000          8.786364
+288                      Terra Mystica     0.250000          8.671560
+Score for comb: [1147, 18203, 43736, 45404] is 204.
+Score for comb after normalization: [1147, 18203, 43736, 45404] is -1.
+Score for comb with log: [1147, 18203, 43736, 45404] is -1.0.
+                                 board  board_score  predicted_rating
+164                           Le Havre     0.500000          8.956757
+53                    Carcassonne Plus     0.500000          8.956757
+258               Shadowrun: Crossfire     0.500000          8.886364
+319  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+330                              Viral     0.400000          8.856757
+337          War: O jogo da estratégia     0.566667          8.833818
+9                             Agricola     0.425000          8.811364
+160                   Krosmaster Arena     0.333333          8.790090
+13                         Alquimistas     0.400000          8.786364
+287                      Terra Mystica     0.250000          8.671560
+Score for comb: [1147, 18203, 43736, 52819] is 207.
+Score for comb after normalization: [1147, 18203, 43736, 52819] is -1.
+Score for comb with log: [1147, 18203, 43736, 52819] is -0.6309297535714575.
+                                 board  board_score  predicted_rating
+294  Twilight Imperium (Quarta Edição)     0.875000          9.331757
+265                      Terra Mystica     0.500000          8.956757
+152                           Le Havre     0.500000          8.956757
+47                    Carcassonne Plus     0.500000          8.956757
+304                              Viral     0.400000          8.856757
+52       Century: Rota das Especiarias     0.500000          8.825581
+310          War: O jogo da estratégia     0.557407          8.804298
+150                   Krosmaster Arena     0.333333          8.790090
+244                           Smash Up     0.055556          8.510975
+210                   Potion Explosion     0.300000          8.507545
+Score for comb: [1147, 18203, 43736, 60329] is 131.
+Score for comb after normalization: [1147, 18203, 43736, 60329] is -1.
+Score for comb with log: [1147, 18203, 43736, 60329] is -0.5.
+                                 board  board_score  predicted_rating
+232                         Quarriors!     1.250000          9.829545
+99                           El Grande     0.864583          9.444129
+324  Twilight Imperium (Quarta Edição)     0.875000          9.331757
+153           Kanban: Driver's Edition     0.750000          9.329545
+54                    Carcassonne Plus     0.500000          8.956757
+167                           Le Havre     0.500000          8.956757
+350                           Yokohama     0.325000          8.904545
+336                              Viral     0.400000          8.856757
+33                             Barrage     0.250000          8.829545
+345          War: O jogo da estratégia     0.483333          8.814879
+Score for comb: [1147, 18203, 43736, 74277] is 18.
+Score for comb after normalization: [1147, 18203, 43736, 74277] is 1.
+Score for comb with log: [1147, 18203, 43736, 74277] is 0.43067655807339306.
+                                           board  board_score  predicted_rating
+141                                     Le Havre     0.500000          8.956757
+48                              Carcassonne Plus     0.500000          8.956757
+275                                          Uno     0.500000          8.920891
+218                         Shadowrun: Crossfire     0.500000          8.886364
+121  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+280                                        Viral     0.400000          8.856757
+285                    War: O jogo da estratégia     0.416667          8.826495
+9                                       Agricola     0.425000          8.811364
+50                                 Catan: O Jogo     0.347333          8.802753
+137                             Krosmaster Arena     0.333333          8.790090
+Score for comb: [1147, 18203, 45404, 52819] is 20.
+Score for comb after normalization: [1147, 18203, 45404, 52819] is 1.
+Score for comb with log: [1147, 18203, 45404, 52819] is 0.38685280723454163.
+                                           board  board_score  predicted_rating
+56                              Carcassonne Plus     0.500000          8.956757
+165                                     Le Havre     0.500000          8.956757
+248                         Shadowrun: Crossfire     0.500000          8.886364
+142  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+304            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+315                                        Viral     0.400000          8.856757
+10                                      Agricola     0.425000          8.811364
+318                    War: O jogo da estratégia     0.407407          8.796975
+161                             Krosmaster Arena     0.333333          8.790090
+13                                   Alquimistas     0.400000          8.786364
+Score for comb: [1147, 18203, 45404, 60329] is 25.
+Score for comb after normalization: [1147, 18203, 45404, 60329] is 0.
+Score for comb with log: [1147, 18203, 45404, 60329] is 0.0.
+                                           board  board_score  predicted_rating
+242                                   Quarriors!     1.250000          9.829545
+104                                    El Grande     0.864583          9.444129
+163                     Kanban: Driver's Edition     0.750000          9.329545
+59                              Carcassonne Plus     0.500000          8.956757
+178                                     Le Havre     0.500000          8.956757
+169                                King of Tokyo     0.445833          8.942628
+74                                          Coup     0.442593          8.939387
+355                                     Yokohama     0.325000          8.904545
+153  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+328            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+Score for comb: [1147, 18203, 45404, 74277] is 14.
+Score for comb after normalization: [1147, 18203, 45404, 74277] is 1.
+Score for comb with log: [1147, 18203, 45404, 74277] is 0.3333333333333333.
+                                           board  board_score  predicted_rating
+164                                     Le Havre     0.500000          8.956757
+56                              Carcassonne Plus     0.500000          8.956757
+247                         Shadowrun: Crossfire     0.500000          8.886364
+141  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+303            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+314                                        Viral     0.400000          8.856757
+10                                      Agricola     0.425000          8.811364
+319                    War: O jogo da estratégia     0.407407          8.796975
+160                             Krosmaster Arena     0.333333          8.790090
+13                                   Alquimistas     0.400000          8.786364
+Score for comb: [1147, 18203, 52819, 60329] is 27.
+Score for comb after normalization: [1147, 18203, 52819, 60329] is 0.
+Score for comb with log: [1147, 18203, 52819, 60329] is 0.0.
+                                           board  board_score  predicted_rating
+240                                   Quarriors!     1.250000          9.829545
+103                                    El Grande     0.864583          9.444129
+162                     Kanban: Driver's Edition     0.750000          9.329545
+177                                     Le Havre     0.500000          8.956757
+59                              Carcassonne Plus     0.500000          8.956757
+168                                King of Tokyo     0.445833          8.942628
+74                                          Coup     0.442593          8.939387
+353                                     Yokohama     0.325000          8.904545
+152  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+326            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+Score for comb: [1147, 18203, 52819, 74277] is 14.
+Score for comb after normalization: [1147, 18203, 52819, 74277] is 1.
+Score for comb with log: [1147, 18203, 52819, 74277] is 0.3010299956639812.
+                                 board  board_score  predicted_rating
+228                         Quarriors!     1.250000          9.829545
+102                          El Grande     0.864583          9.444129
+311  Twilight Imperium (Quarta Edição)     0.875000          9.331757
+155           Kanban: Driver's Edition     0.750000          9.329545
+308                             Trajan     0.500000          9.079545
+168                           Le Havre     0.500000          8.956757
+58                    Carcassonne Plus     0.500000          8.956757
+223                   Potion Explosion     0.425000          8.943151
+76                                Coup     0.481944          8.935936
+335                           Yokohama     0.325000          8.904545
+Score for comb: [1147, 18203, 60329, 74277] is 18.
+Score for comb after normalization: [1147, 18203, 60329, 74277] is 1.
+Score for comb with log: [1147, 18203, 60329, 74277] is 0.2890648263178879.
+                                 board  board_score  predicted_rating
+48                    Carcassonne Plus     0.500000          8.956757
+150                           Le Havre     0.500000          8.956757
+231               Shadowrun: Crossfire     0.500000          8.886364
+295                              Viral     0.400000          8.856757
+7                             Agricola     0.425000          8.811364
+291                                Uno     0.500000          8.796954
+146                   Krosmaster Arena     0.333333          8.790090
+11                         Alquimistas     0.400000          8.786364
+302          War: O jogo da estratégia     0.425000          8.721954
+285  Twilight Imperium (Quarta Edição)     0.291667          8.701495
+Score for comb: [1147, 43736, 45404, 52819] is 178.
+Score for comb after normalization: [1147, 43736, 45404, 52819] is -1.
+Score for comb with log: [1147, 43736, 45404, 52819] is -0.27894294565112987.
+                                 board  board_score  predicted_rating
+54                    Carcassonne Plus     0.500000          8.956757
+169                           Le Havre     0.500000          8.956757
+255               Shadowrun: Crossfire     0.500000          8.886364
+315  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+325                              Viral     0.400000          8.856757
+8                             Agricola     0.425000          8.811364
+165                   Krosmaster Arena     0.333333          8.790090
+12                         Alquimistas     0.400000          8.786364
+60       Century: Rota das Especiarias     0.375000          8.730973
+331          War: O jogo da estratégia     0.418056          8.699814
+Score for comb: [1147, 43736, 45404, 60329] is 163.
+Score for comb after normalization: [1147, 43736, 45404, 60329] is -1.
+Score for comb with log: [1147, 43736, 45404, 60329] is -0.27023815442731974.
+                                 board  board_score  predicted_rating
+243                         Quarriors!     1.250000          9.829545
+107                          El Grande     0.864583          9.444129
+167           Kanban: Driver's Edition     0.750000          9.329545
+57                    Carcassonne Plus     0.500000          8.956757
+182                           Le Havre     0.500000          8.956757
+366                           Yokohama     0.325000          8.904545
+337  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+350                              Viral     0.400000          8.856757
+329                Timeline: Diversity     0.250000          8.829545
+32                             Barrage     0.250000          8.829545
+Score for comb: [1147, 43736, 45404, 74277] is 22.
+Score for comb after normalization: [1147, 43736, 45404, 74277] is 0.
+Score for comb with log: [1147, 43736, 45404, 74277] is 0.0.
+                                 board  board_score  predicted_rating
+53                    Carcassonne Plus     0.500000          8.956757
+167                           Le Havre     0.500000          8.956757
+253               Shadowrun: Crossfire     0.500000          8.886364
+313  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+323                              Viral     0.400000          8.856757
+8                             Agricola     0.425000          8.811364
+163                   Krosmaster Arena     0.333333          8.790090
+12                         Alquimistas     0.400000          8.786364
+59       Century: Rota das Especiarias     0.375000          8.730973
+330          War: O jogo da estratégia     0.418056          8.699814
+Score for comb: [1147, 43736, 52819, 60329] is 164.
+Score for comb after normalization: [1147, 43736, 52819, 60329] is -1.
+Score for comb with log: [1147, 43736, 52819, 60329] is -0.2559580248098155.
+                                 board  board_score  predicted_rating
+241                         Quarriors!     1.250000          9.829545
+105                          El Grande     0.864583          9.444129
+165           Kanban: Driver's Edition     0.750000          9.329545
+180                           Le Havre     0.500000          8.956757
+56                    Carcassonne Plus     0.500000          8.956757
+364                           Yokohama     0.325000          8.904545
+335  Twilight Imperium (Quarta Edição)     0.437500          8.859060
+348                              Viral     0.400000          8.856757
+31                             Barrage     0.250000          8.829545
+327                Timeline: Diversity     0.250000          8.829545
+Score for comb: [1147, 43736, 52819, 74277] is 22.
+Score for comb after normalization: [1147, 43736, 52819, 74277] is 0.
+Score for comb with log: [1147, 43736, 52819, 74277] is 0.0.
+                                 board  board_score  predicted_rating
+228                         Quarriors!     1.250000          9.829545
+102                          El Grande     0.864583          9.444129
+322  Twilight Imperium (Quarta Edição)     0.875000          9.331757
+155           Kanban: Driver's Edition     0.750000          9.329545
+53                    Carcassonne Plus     0.500000          8.956757
+169                           Le Havre     0.500000          8.956757
+347                           Yokohama     0.325000          8.904545
+333                              Viral     0.400000          8.856757
+28                             Barrage     0.250000          8.829545
+314                Timeline: Diversity     0.250000          8.829545
+Score for comb: [1147, 43736, 60329, 74277] is 21.
+Score for comb after normalization: [1147, 43736, 60329, 74277] is 0.
+Score for comb with log: [1147, 43736, 60329, 74277] is 0.0.
+                                           board  board_score  predicted_rating
+47                              Carcassonne Plus     0.500000          8.956757
+142                                     Le Havre     0.500000          8.956757
+264                                          Uno     0.500000          8.888766
+209                         Shadowrun: Crossfire     0.500000          8.886364
+121  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+268                                        Viral     0.400000          8.856757
+7                                       Agricola     0.425000          8.811364
+138                             Krosmaster Arena     0.333333          8.790090
+10                                   Alquimistas     0.400000          8.786364
+49                                 Catan: O Jogo     0.347333          8.738502
+Score for comb: [1147, 45404, 52819, 60329] is 22.
+Score for comb after normalization: [1147, 45404, 52819, 60329] is 0.
+Score for comb with log: [1147, 45404, 52819, 60329] is 0.0.
+                        board  board_score  predicted_rating
+205                Quarriors!     1.250000          9.829545
+93                  El Grande     0.864583          9.444129
+142  Kanban: Driver's Edition     0.750000          9.329545
+147             King of Tokyo     0.668750          9.186901
+66                       Coup     0.663889          9.182040
+79                      Dixit     0.455208          8.973359
+155                  Le Havre     0.500000          8.956757
+52           Carcassonne Plus     0.500000          8.956757
+292                       Uno     0.500000          8.952257
+309                  Yokohama     0.325000          8.904545
+Score for comb: [1147, 45404, 52819, 74277] is 6.
+Score for comb after normalization: [1147, 45404, 52819, 74277] is 2.
+Score for comb with log: [1147, 45404, 52819, 74277] is 0.4708178267332765.
+                                           board  board_score  predicted_rating
+230                                   Quarriors!     1.250000          9.829545
+105                                    El Grande     0.864583          9.444129
+163                     Kanban: Driver's Edition     0.750000          9.329545
+76                                          Coup     0.642593          9.096554
+58                              Carcassonne Plus     0.500000          8.956757
+178                                     Le Havre     0.500000          8.956757
+343                                     Yokohama     0.325000          8.904545
+168                                King of Tokyo     0.445833          8.899795
+153  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+317            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+Score for comb: [1147, 45404, 60329, 74277] is 14.
+Score for comb after normalization: [1147, 45404, 60329, 74277] is 1.
+Score for comb with log: [1147, 45404, 60329, 74277] is 0.23137821315975915.
+                                           board  board_score  predicted_rating
+228                                   Quarriors!     1.250000          9.829545
+103                                    El Grande     0.864583          9.444129
+161                     Kanban: Driver's Edition     0.750000          9.329545
+75                                          Coup     0.642593          9.096554
+57                              Carcassonne Plus     0.500000          8.956757
+176                                     Le Havre     0.500000          8.956757
+341                                     Yokohama     0.325000          8.904545
+166                                King of Tokyo     0.445833          8.899795
+151  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+315            Twilight Imperium (Quarta Edição)     0.437500          8.859060
+Score for comb: [1147, 52819, 60329, 74277] is 14.
+Score for comb after normalization: [1147, 52819, 60329, 74277] is 1.
+Score for comb with log: [1147, 52819, 60329, 74277] is 0.227670248696953.
+                                           board  board_score  predicted_rating
+226                         Shadowrun: Crossfire     0.500000          8.886364
+9                                       Agricola     0.425000          8.811364
+13                                   Alquimistas     0.400000          8.786364
+158              Mansions of Madness (2ª Edição)     0.361111          8.747475
+285                                          Uno     0.375000          8.671286
+52                 Century: Rota das Especiarias     0.250000          8.636364
+139                         Krosmaster Arena 2.0     0.200000          8.586364
+122  Imperial Settlers: A Ascensão de um Império     0.308333          8.552020
+156                         Magic: The Gathering     0.125000          8.511364
+0                                       13 Clues     0.000000          8.454082
+Score for comb: [18203, 43736, 45404, 52819] is 205.
+Score for comb after normalization: [18203, 43736, 45404, 52819] is -1.
+Score for comb with log: [18203, 43736, 45404, 52819] is -0.22424382421757544.
+                               board  board_score  predicted_rating
+250             Shadowrun: Crossfire     0.500000          8.886364
+10                          Agricola     0.425000          8.811364
+14                       Alquimistas     0.400000          8.786364
+177  Mansions of Madness (2ª Edição)     0.361111          8.747475
+58     Century: Rota das Especiarias     0.375000          8.730973
+159             Krosmaster Arena 2.0     0.200000          8.586364
+175             Magic: The Gathering     0.125000          8.511364
+189                 Mice and Mystics     0.125000          8.511364
+314                              Uno     0.187500          8.468590
+236              Rock'n Roll Manager     0.000000          8.454082
+Score for comb: [18203, 43736, 45404, 60329] is 190.
+Score for comb after normalization: [18203, 43736, 45404, 60329] is -1.
+Score for comb with log: [18203, 43736, 45404, 60329] is -0.22106472945750374.
+                           board  board_score  predicted_rating
+241                   Quarriors!     1.250000          9.829545
+101                    El Grande     0.864583          9.444129
+160     Kanban: Driver's Edition     0.750000          9.329545
+360                     Yokohama     0.325000          8.904545
+34                       Barrage     0.250000          8.829545
+166                King of Tokyo     0.416667          8.747320
+270         Shadowrun: Crossfire     0.250000          8.732955
+11                      Agricola     0.212500          8.695455
+15                   Alquimistas     0.200000          8.682955
+336  Tzolk'in: O Calendário Maia     0.187500          8.670455
+Score for comb: [18203, 43736, 45404, 74277] is 17.
+Score for comb after normalization: [18203, 43736, 45404, 74277] is 1.
+Score for comb with log: [18203, 43736, 45404, 74277] is 0.21810429198553155.
+                               board  board_score  predicted_rating
+249             Shadowrun: Crossfire     0.500000          8.886364
+10                          Agricola     0.425000          8.811364
+14                       Alquimistas     0.400000          8.786364
+177  Mansions of Madness (2ª Edição)     0.361111          8.747475
+58     Century: Rota das Especiarias     0.375000          8.730973
+158             Krosmaster Arena 2.0     0.200000          8.586364
+316                          Village     0.125000          8.545223
+159                            LHAMA     0.125000          8.511364
+175             Magic: The Gathering     0.125000          8.511364
+313                              Uno     0.187500          8.468590
+Score for comb: [18203, 43736, 52819, 60329] is 192.
+Score for comb after normalization: [18203, 43736, 52819, 60329] is -1.
+Score for comb with log: [18203, 43736, 52819, 60329] is -0.21533827903669653.
+                           board  board_score  predicted_rating
+240                   Quarriors!     1.250000          9.829545
+100                    El Grande     0.864583          9.444129
+159     Kanban: Driver's Edition     0.750000          9.329545
+359                     Yokohama     0.325000          8.904545
+34                       Barrage     0.250000          8.829545
+165                King of Tokyo     0.416667          8.747320
+269         Shadowrun: Crossfire     0.250000          8.732955
+11                      Agricola     0.212500          8.695455
+15                   Alquimistas     0.200000          8.682955
+335  Tzolk'in: O Calendário Maia     0.187500          8.670455
+Score for comb: [18203, 43736, 52819, 74277] is 17.
+Score for comb after normalization: [18203, 43736, 52819, 74277] is 1.
+Score for comb with log: [18203, 43736, 52819, 74277] is 0.21274605355336312.
+                             board  board_score  predicted_rating
+224                     Quarriors!     1.250000          9.829545
+97                       El Grande     0.864583          9.444129
+148       Kanban: Driver's Edition     0.750000          9.329545
+314    Tzolk'in: O Calendário Maia     0.375000          8.954545
+335                       Yokohama     0.325000          8.904545
+32                         Barrage     0.250000          8.829545
+60   Century: Rota das Especiarias     0.500000          8.825581
+217               Potion Explosion     0.500000          8.768939
+72                            Coup     0.336111          8.665497
+154                  King of Tokyo     0.312500          8.641885
+Score for comb: [18203, 43736, 60329, 74277] is 90.
+Score for comb after normalization: [18203, 43736, 60329, 74277] is -1.
+Score for comb with log: [18203, 43736, 60329, 74277] is -0.2103099178571525.
+                                           board  board_score  predicted_rating
+205                         Shadowrun: Crossfire     0.500000          8.886364
+2                                 7 Wonders Duel     0.544444          8.870026
+118  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+9                                       Agricola     0.425000          8.811364
+12                                   Alquimistas     0.400000          8.786364
+256                                          Uno     0.375000          8.763098
+147              Mansions of Madness (2ª Edição)     0.361111          8.747475
+269                                    Zombicide     0.275000          8.729082
+50                 Century: Rota das Especiarias     0.333333          8.699436
+60                                          Coup     0.300000          8.689832
+Score for comb: [18203, 45404, 52819, 60329] is 18.
+Score for comb after normalization: [18203, 45404, 52819, 60329] is 1.
+Score for comb with log: [18203, 45404, 52819, 60329] is 0.20801459767650948.
+                                           board  board_score  predicted_rating
+209                                   Quarriors!     1.250000          9.829545
+88                                     El Grande     0.864583          9.444129
+139                     Kanban: Driver's Edition     0.750000          9.329545
+63                                          Coup     0.663889          9.180702
+144                                King of Tokyo     0.625000          9.141814
+1                                      7 Wonders     0.511111          8.965193
+306                                     Yokohama     0.325000          8.904545
+76                                         Dixit     0.375000          8.891814
+130  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+32                                       Barrage     0.250000          8.829545
+Score for comb: [18203, 45404, 52819, 74277] is 8.
+Score for comb after normalization: [18203, 45404, 52819, 74277] is 2.
+Score for comb with log: [18203, 45404, 52819, 74277] is 0.41169366492086895.
+                                           board  board_score  predicted_rating
+229                                   Quarriors!     1.250000          9.829545
+102                                    El Grande     0.864583          9.444129
+157                     Kanban: Driver's Edition     0.750000          9.329545
+74                                          Coup     0.642593          9.095662
+337                                     Yokohama     0.325000          8.904545
+162                                King of Tokyo     0.416667          8.869736
+147  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+34                                       Barrage     0.250000          8.829545
+224                             Potion Explosion     0.312500          8.795455
+89                                         Dixit     0.296296          8.749366
+Score for comb: [18203, 45404, 60329, 74277] is 10.
+Score for comb after normalization: [18203, 45404, 60329, 74277] is 2.
+Score for comb with log: [18203, 45404, 60329, 74277] is 0.4075900941810124.
+                                           board  board_score  predicted_rating
+228                                   Quarriors!     1.250000          9.829545
+101                                    El Grande     0.864583          9.444129
+156                     Kanban: Driver's Edition     0.750000          9.329545
+74                                          Coup     0.642593          9.095662
+336                                     Yokohama     0.325000          8.904545
+161                                King of Tokyo     0.416667          8.869736
+146  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+34                                       Barrage     0.250000          8.829545
+223                             Potion Explosion     0.312500          8.795455
+89                                         Dixit     0.296296          8.749366
+Score for comb: [18203, 52819, 60329, 74277] is 10.
+Score for comb after normalization: [18203, 52819, 60329, 74277] is 2.
+Score for comb with log: [18203, 52819, 60329, 74277] is 0.4036981731641997.
+                                           board  board_score  predicted_rating
+220                         Shadowrun: Crossfire     0.500000          8.886364
+8                                       Agricola     0.425000          8.811364
+12                                   Alquimistas     0.400000          8.786364
+158              Mansions of Madness (2ª Edição)     0.361111          8.747475
+52                 Century: Rota das Especiarias     0.333333          8.699436
+277                                          Uno     0.375000          8.639161
+142                         Krosmaster Arena 2.0     0.200000          8.586364
+125  Imperial Settlers: A Ascensão de um Império     0.308333          8.552020
+157                         Magic: The Gathering     0.125000          8.511364
+167                             Mice and Mystics     0.062500          8.448864
+Score for comb: [43736, 45404, 52819, 60329] is 174.
+Score for comb after normalization: [43736, 45404, 52819, 60329] is -1.
+Score for comb with log: [43736, 45404, 52819, 60329] is -0.2.
+                        board  board_score  predicted_rating
+216                Quarriors!     1.250000          9.829545
+94                  El Grande     0.864583          9.444129
+147  Kanban: Driver's Edition     0.750000          9.329545
+325                  Yokohama     0.325000          8.904545
+152             King of Tokyo     0.625000          8.893939
+29                    Barrage     0.250000          8.829545
+293       Timeline: Diversity     0.250000          8.829545
+243      Shadowrun: Crossfire     0.333333          8.784091
+9                    Agricola     0.283333          8.734091
+13                Alquimistas     0.266667          8.717424
+Score for comb: [43736, 45404, 52819, 74277] is 13.
+Score for comb after normalization: [43736, 45404, 52819, 74277] is 1.
+Score for comb with log: [43736, 45404, 52819, 74277] is 0.19823986317056053.
+                             board  board_score  predicted_rating
+233                     Quarriors!     1.250000          9.829545
+105                      El Grande     0.864583          9.444129
+161       Kanban: Driver's Edition     0.750000          9.329545
+349                       Yokohama     0.325000          8.904545
+317            Timeline: Diversity     0.250000          8.829545
+30                         Barrage     0.250000          8.829545
+75                            Coup     0.448148          8.735968
+263           Shadowrun: Crossfire     0.250000          8.732955
+62   Century: Rota das Especiarias     0.375000          8.730973
+166                  King of Tokyo     0.416667          8.704487
+Score for comb: [43736, 45404, 60329, 74277] is 18.
+Score for comb after normalization: [43736, 45404, 60329, 74277] is 1.
+Score for comb with log: [43736, 45404, 60329, 74277] is 0.1965616322328226.
+                             board  board_score  predicted_rating
+231                     Quarriors!     1.250000          9.829545
+103                      El Grande     0.864583          9.444129
+159       Kanban: Driver's Edition     0.750000          9.329545
+347                       Yokohama     0.325000          8.904545
+315            Timeline: Diversity     0.250000          8.829545
+29                         Barrage     0.250000          8.829545
+74                            Coup     0.448148          8.735968
+261           Shadowrun: Crossfire     0.250000          8.732955
+61   Century: Rota das Especiarias     0.375000          8.730973
+164                  King of Tokyo     0.416667          8.704487
+Score for comb: [43736, 52819, 60329, 74277] is 19.
+Score for comb after normalization: [43736, 52819, 60329, 74277] is 1.
+Score for comb with log: [43736, 52819, 60329, 74277] is 0.1949590218937863.
+                                           board  board_score  predicted_rating
+195                                   Quarriors!     1.250000          9.829545
+88                                     El Grande     0.864583          9.444129
+65                                          Coup     0.963889          9.416452
+137                     Kanban: Driver's Edition     0.750000          9.329545
+141                                King of Tokyo     0.625000          9.077563
+293                                     Yokohama     0.325000          8.904545
+76                                         Dixit     0.444444          8.897008
+128  Imperial Settlers: A Ascensão de um Império     0.475000          8.861364
+264                          Timeline: Diversity     0.250000          8.829545
+28                                       Barrage     0.250000          8.829545
+Score for comb: [45404, 52819, 60329, 74277] is 7.
+Score for comb after normalization: [45404, 52819, 60329, 74277] is 2.
+Score for comb with log: [45404, 52819, 60329, 74277] is 0.38685280723454163.
+Score for Dixiters: 1.502258380197671
+
+Process finished with exit code 0
